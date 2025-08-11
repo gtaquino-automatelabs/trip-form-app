@@ -8,18 +8,21 @@
   "scripts": {
     "dev": "turbo dev",
     "build": "turbo build",
+    "test": "turbo test",
+    "lint": "turbo lint",
+    "type-check": "turbo type-check",
     "check-types": "turbo check-types",
-    "dev:native": "turbo -F native dev",
     "dev:web": "turbo -F web dev",
-    "dev:server": "turbo -F server dev",
-    "db:push": "turbo -F server db:push",
-    "db:studio": "turbo -F server db:studio",
-    "db:generate": "turbo -F server db:generate",
-    "db:migrate": "turbo -F server db:migrate"
+    "supabase:start": "npx supabase start --exclude vector",
+    "supabase:stop": "npx supabase stop",
+    "supabase:status": "npx supabase status",
+    "supabase:studio": "start http://127.0.0.1:54323",
+    "supabase:seed": "npx supabase db seed",
+    "supabase:reset": "npx supabase db reset",
+    "supabase:types": "npx supabase gen types typescript --local > packages/shared/src/types/database.ts"
   },
-  "dependencies": {},
+  "packageManager": "npm@11.4.2",
   "devDependencies": {
-    "turbo": "^2.5.4"
-  },
-  "packageManager": "npm@11.4.2"
+    "turbo": "^2.5.5"
+  }
 }

@@ -17,22 +17,12 @@
 			"cache": false,
 			"persistent": true
 		},
-		"db:push": {
-			"cache": false,
-			"persistent": true
+		"test": {
+			"dependsOn": ["^build"],
+			"outputs": ["coverage/**"]
 		},
-		"db:studio": {
-			"cache": false,
-			"persistent": true
-		},
-		"db:migrate": {
-			"cache": false,
-			"persistent": true
-		},
-		"db:generate": {
-			"cache": false,
-			"persistent": true
+		"type-check": {
+			"dependsOn": ["^type-check"]
 		}
-		
-			}
+	}
 }
