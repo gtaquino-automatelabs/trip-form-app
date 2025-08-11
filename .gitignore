@@ -61,3 +61,9 @@ Thumbs.db
 *.log
 tmp/
 temp/
+
+# Development tools and workflows
+.bmad-core/
+.claude/
+.cursor/
+.specstory/
