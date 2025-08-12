@@ -67,4 +67,9 @@ temp/
 .claude/
 .cursor/
 .specstory/
-screenshots
+screenshots/
+
+# Test files that shouldn't be in production
+test-*.js
+test-*.ts
+*.test.local.*
