@@ -2,6 +2,7 @@
 
 import { ThemeProvider } from "./theme-provider";
 import { Toaster } from "./ui/sonner";
+import { AuthProvider } from "@/contexts/auth-context";
 
 
 export default function Providers({
@@ -10,14 +11,16 @@ export default function Providers({
   children: React.ReactNode
 }) {
   return (
-    <ThemeProvider
-      attribute="class"
-      defaultTheme="system"
-      enableSystem
-      disableTransitionOnChange
-    >
-      {children}
-      <Toaster richColors />
-    </ThemeProvider>
+    <AuthProvider>
+      <ThemeProvider
+        attribute="class"
+        defaultTheme="system"
+        enableSystem
+        disableTransitionOnChange
+      >
+        {children}
+        <Toaster richColors />
+      </ThemeProvider>
+    </AuthProvider>
   );
 }

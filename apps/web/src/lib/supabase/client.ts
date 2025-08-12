@@ -5,3 +5,6 @@ export const createClient = () => {
   validateSupabaseConfig();
   return createSupabaseBrowserClient(supabaseConfig.url, supabaseConfig.anonKey);
 };
+
+// Export a singleton instance for use in client components
+export const supabase = createClient();

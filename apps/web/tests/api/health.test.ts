@@ -11,7 +11,7 @@ describe('/api/health', () => {
   let mockRequest: NextRequest;
 
   beforeEach(() => {
-    mockRequest = new NextRequest('http://localhost:3001/api/health');
+    mockRequest = new NextRequest('http://localhost:3000/api/health');
     vi.clearAllMocks();
   });
 

@@ -40,8 +40,8 @@ Then, run the development server:
 npm run dev
 ```
 
-Open [http://localhost:3001](http://localhost:3001) in your browser to see the web application.
-The API is running at [http://localhost:3000](http://localhost:3000).
+Open [http://localhost:3000](http://localhost:3000) in your browser to see the web application.
+The API routes are available at [http://localhost:3000/api](http://localhost:3000/api).
 
 
 
