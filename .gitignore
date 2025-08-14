@@ -68,6 +68,10 @@ temp/
 .cursor/
 .specstory/
 screenshots/
+vibe-tools.config.json
+QWEN.md
+.editorconfig
+.cursorindexingignore
 
 # Test files that shouldn't be in production
 test-*.js

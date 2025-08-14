@@ -51,12 +51,12 @@ graph TB
             Validation[Real-time Validation]
         end
         subgraph "API Routes"
-            AuthAPI[/api/auth/*]
-            FormAPI[/api/form/*]
-            RequestAPI[/api/requests/*]
-            AdminAPI[/api/admin/*]
-            UploadAPI[/api/upload/*]
-            ExportAPI[/api/export/*]
+            AuthAPI["Auth API<br/>/api/auth/*"]
+            FormAPI["Form API<br/>/api/form/*"]
+            RequestAPI["Request API<br/>/api/requests/*"]
+            AdminAPI["Admin API<br/>/api/admin/*"]
+            UploadAPI["Upload API<br/>/api/upload/*"]
+            ExportAPI["Export API<br/>/api/export/*"]
         end
     end
     
@@ -123,4 +123,4 @@ graph TB
 - **Progressive Enhancement:** Form works without JavaScript where possible - _Rationale:_ Accessibility and reliability for government users
 - **Audit Trail Pattern:** Complete status history tracking - _Rationale:_ Compliance requirements and transparency for approval workflows
 - **Session Management Pattern:** Active session monitoring with warnings - _Rationale:_ Prevent data loss and improve security for sensitive government data
-
+

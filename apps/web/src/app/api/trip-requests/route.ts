@@ -15,7 +15,7 @@ export async function GET(request: NextRequest) {
     }
 
     const { data: requests, error } = await supabase
-      .from('trip_requests')
+      .from('travel_requests')
       .select('*')
       .eq('user_id', user.id)
       .order('created_at', { ascending: false });
@@ -66,7 +66,7 @@ export async function POST(request: NextRequest) {
     };
 
     const { data: newRequest, error } = await supabase
-      .from('trip_requests')
+      .from('travel_requests')
       .insert([formattedBody])
       .select()
       .single();
