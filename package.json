@@ -1,0 +1,34 @@
+{
+  "name": "trip-form-app",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "test": "turbo test",
+    "lint": "turbo lint",
+    "type-check": "turbo type-check",
+    "check-types": "turbo check-types",
+    "dev:web": "turbo -F web dev",
+    "supabase:start": "npx supabase start --exclude vector",
+    "supabase:stop": "npx supabase stop",
+    "supabase:status": "npx supabase status",
+    "supabase:studio": "start http://127.0.0.1:54323",
+    "supabase:seed": "npx supabase db seed",
+    "supabase:reset": "npx supabase db reset",
+    "supabase:types": "npx supabase gen types typescript --local > packages/shared/src/types/database.ts",
+    "ingest-projetos": "cd scripts && npm install && npx tsx ingest-projetos.ts"
+  },
+  "packageManager": "npm@11.4.2",
+  "dependencies": {
+    "@radix-ui/react-select": "^2.2.5",
+    "date-fns": "^4.1.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.54.2",
+    "turbo": "^2.5.5"
+  }
+}

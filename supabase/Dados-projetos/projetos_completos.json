@@ -1,0 +1,39 @@
+{
+    "processo_sei": "23070.XXXXXX/YYYY-ZZ",
+    "codigo_srinfo": "PEIA-AAAA.BBBB",
+    "nome_do_projeto": "NICKNAME: Descrição detalhada do projeto de pesquisa e desenvolvimento",
+    "nickname": "SIGLA/APELIDO DO PROJETO",
+    "gestor_funape": "Nome do Gestor FUNAPE",
+    "data_inicio_contrato": "YYYY-MM-DD HH:MM:SS",
+    "data_termino_contrato": "YYYY-MM-DD HH:MM:SS",
+    "coordenadores": [
+        {
+            "nome": "Nome do Coordenador Principal",
+            "email": "coordenador@ceia.ufg.br"
+        },
+        {
+            "nome": "Nome do Coordenador Secundário",
+            "email": "coordenador2@ceia.ufg.br"
+        }
+    ],
+    "centros_custos": [
+        {
+            "centro_custo": "XX.YYY",
+            "cod_centro_custo": "ZZZZZ",
+            "tipo_financiamento": "EMBRAPII FILHA",
+            "conta": "XXXXX-X"
+          },
+          {
+            "centro_custo": "XX.YYY",
+            "cod_centro_custo": "ZZZZZ",
+            "tipo_financiamento": "SEBRAE FILHA",
+            "conta": "XXXXX-X"
+          },
+          {
+            "centro_custo": "XX.YYY",
+            "cod_centro_custo": "ZZZZZ",
+            "tipo_financiamento": "EMPRESA",
+            "conta": "XXXXX-X"
+          }
+    ]
+}

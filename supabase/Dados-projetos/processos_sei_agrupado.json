@@ -1,0 +1,3290 @@
+[
+    {
+        "processo_sei": "23070.000368/2024-25",
+        "codigo_srinfo": "PEIA-2401.0068",
+        "nome_do_projeto": "MR. TURING III: Validação de um sistema de mineração inteligente de entidades nomeadas em documentos",
+        "nickname": "MR. TURING III",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": "2024-01-12 00:00:00",
+        "data_termino_contrato": "2025-07-15 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Rodrigo Zempulski Fanucchi",
+                "email": "rodrigo.fanucchi@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.177",
+                "cod_centro_custo": "24862",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22222-4"
+            },
+            {
+                "centro_custo": "88.179",
+                "cod_centro_custo": "24867",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22224-0"
+            },
+            {
+                "centro_custo": "88.178",
+                "cod_centro_custo": "24866",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22223-2"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.000520/2023-99",
+        "codigo_srinfo": "PEIA-2301.0039",
+        "nome_do_projeto": "DATAMETRICA: Algoritmos inteligentes para extração e validação automatizada de informações estratégicas em sinais de voz",
+        "nickname": "DATAMETRICA",
+        "gestor_funape": "Fernanda",
+        "data_inicio_contrato": "2023-01-02 00:00:00",
+        "data_termino_contrato": "2025-05-02 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Arlindo Rodrigues Galvão Filho",
+                "email": "arlindo.galvao@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.101",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "21531-7"
+            },
+            {
+                "centro_custo": "88.102",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "21512-0"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.000876/2024-11",
+        "codigo_srinfo": "PEIA-2401.0071",
+        "nome_do_projeto": "COTIZEI: Modelos de Linguagem para Assistência Jurídica",
+        "nickname": "COTIZEI",
+        "gestor_funape": "Gabriela Valente",
+        "data_inicio_contrato": "2024-01-24 00:00:00",
+        "data_termino_contrato": "2025-10-24 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.185",
+                "cod_centro_custo": "23447",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22250-X"
+            },
+            {
+                "centro_custo": "88.187",
+                "cod_centro_custo": "23450",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22252-6"
+            },
+            {
+                "centro_custo": "88.186",
+                "cod_centro_custo": "23449",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22251-8"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.001253/2025-39",
+        "codigo_srinfo": "PEIA-2501.0109",
+        "nome_do_projeto": "ZSCAN II: Inteligência Artificial aplicada na Detecção de Anomalias em Vídeos no Apoio à Tomada de Decisão​",
+        "nickname": "ZSCAN II",
+        "gestor_funape": "Fernanda",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Ricardo Augusto Pereira Franco",
+                "email": "ricardo.franco@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.297",
+                "cod_centro_custo": "25110",
+                "tipo_financiamento": "EMBRAPII-SAÚDE",
+                "conta": "23040-5"
+            },
+            {
+                "centro_custo": "88.296",
+                "cod_centro_custo": "25109",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23038-3"
+            },
+            {
+                "centro_custo": "88.298",
+                "cod_centro_custo": "25108",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "23041-3"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.002552/2024-18",
+        "codigo_srinfo": "PEIA-2401.0070",
+        "nome_do_projeto": "PACTO: Engajamento nos Cuidados de Saúde por meio de Gamificação e Inteligência Artificial",
+        "nickname": "PACTO",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": "2024-01-26 00:00:00",
+        "data_termino_contrato": "2026-10-23 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Leonardo Antonio Alves",
+                "email": "leonardo.alves@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.18",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMBRAPII-SAÚDE",
+                "conta": "22202-X"
+            },
+            {
+                "centro_custo": "88.182",
+                "cod_centro_custo": "25459",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22204-6"
+            },
+            {
+                "centro_custo": "88.181",
+                "cod_centro_custo": "25460",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22203-8"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.003630/2024-93",
+        "codigo_srinfo": "PEIA-2402.0072",
+        "nome_do_projeto": "OPEN HEALTH: Algoritmos inteligentes para coleta e análise ativa de dados para cuidados em ambientes corporativos",
+        "nickname": "OPEN HEALTH",
+        "gestor_funape": "Adrielly",
+        "data_inicio_contrato": "2024-02-23 00:00:00",
+        "data_termino_contrato": "2025-09-24 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Renato Bulcão",
+                "email": "renato.neto@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.189",
+                "cod_centro_custo": "25364",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22290-9"
+            },
+            {
+                "centro_custo": "88.191",
+                "cod_centro_custo": "25365",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22293-3"
+            },
+            {
+                "centro_custo": "88.19",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22292-5"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.006216/2025-17",
+        "codigo_srinfo": "PEIA-2502.0110",
+        "nome_do_projeto": "WAVINGTEST: Mapeamento e Aprimoramento de Casos de Teste com Instruções em Linguagem Natural Baseada em Casos de Teste Bem-Sucedidos",
+        "nickname": "WAVINGTEST",
+        "gestor_funape": "Ranielly",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Juliana Pereira de Souza Zinader",
+                "email": "juliana.zinader@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.301",
+                "cod_centro_custo": "25062",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22874-5"
+            },
+            {
+                "centro_custo": "88.299",
+                "cod_centro_custo": "25060",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22872-9"
+            },
+            {
+                "centro_custo": "88.3",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22873-7"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.008488/2025-51",
+        "codigo_srinfo": "PEIA-2504.0121",
+        "nome_do_projeto": "MATCH IT II: Tecnologias de inteligência artificial como consultor empresarial",
+        "nickname": "MATCH IT II",
+        "gestor_funape": "Vitória Aquino",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Taciana Novo Kudo",
+                "email": "taciana.kudo@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.331",
+                "cod_centro_custo": "25119",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "23360-9"
+            },
+            {
+                "centro_custo": "88.329",
+                "cod_centro_custo": "25120",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23358-7"
+            },
+            {
+                "centro_custo": "88.33",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "23359-5"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.009512/2025-70",
+        "codigo_srinfo": "PEIA-2504.0116",
+        "nome_do_projeto": "Syngenta: Ambientômica no Melhoramento Genético: recomendação de genótipos de milho",
+        "nickname": "",
+        "gestor_funape": "Fernanda",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Iwens Gervásio Sene Júnior",
+                "email": "iwens.sene@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.327",
+                "cod_centro_custo": "24720",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "23361-7"
+            },
+            {
+                "centro_custo": "88.328",
+                "cod_centro_custo": "24721",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23362-5"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.009516/2025-58",
+        "codigo_srinfo": "PEIA-2504.0118",
+        "nome_do_projeto": "Moovz: Inteligência Artificial e Gamificação Avançada para Aprimoramento de Treinos e Categorização da Percepção de Esforço",
+        "nickname": "",
+        "gestor_funape": "Vitória Aquino",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Leonardo Antonio Alves",
+                "email": "leonardo.alves@ceia.ufg.br"
+            },
+            {
+                "nome": "Paulo César Ferreira Melo",
+                "email": "paulo.césar.ferreira.melo@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.332",
+                "cod_centro_custo": "25473",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "23367-6"
+            },
+            {
+                "centro_custo": "88.333",
+                "cod_centro_custo": "25477",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23368-4"
+            },
+            {
+                "centro_custo": "88.334",
+                "cod_centro_custo": "25478",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "23387-0"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.009986/2024-31",
+        "codigo_srinfo": "PEIA-2403.0073",
+        "nome_do_projeto": "SIMEON: Uma Abordagem Inteligente na Gestão de Riscos para Otimização de Recursos em Empresas  do Setor da Saúde",
+        "nickname": "SIMEON",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": "2024-03-04 00:00:00",
+        "data_termino_contrato": "2025-12-04 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Renata",
+                "email": "renata.braga@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.192",
+                "cod_centro_custo": "25128",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22310-7"
+            },
+            {
+                "centro_custo": "88.194",
+                "cod_centro_custo": "25129",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22329-8"
+            },
+            {
+                "centro_custo": "88.193",
+                "cod_centro_custo": "25130",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22311-5"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.010131/2024-52",
+        "codigo_srinfo": "PEIA-2403.0075",
+        "nome_do_projeto": "MIDIASIM: Inteligência Artificial aplicada na criação automática de sites para pequenas e médias empresas",
+        "nickname": "MIDIASIM",
+        "gestor_funape": "Matheus Vilas Boas",
+        "data_inicio_contrato": "2024-03-06 00:00:00",
+        "data_termino_contrato": "2025-12-06 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Sávio Salvarino Teles de Oliveira",
+                "email": "savio.oliveira@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.207",
+                "cod_centro_custo": "25124",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22356-5"
+            },
+            {
+                "centro_custo": "88.209",
+                "cod_centro_custo": "25126",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22358-1"
+            },
+            {
+                "centro_custo": "88.208",
+                "cod_centro_custo": "25125",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22357-3"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.010144/2024-21",
+        "codigo_srinfo": "PEIA-2401.0076",
+        "nome_do_projeto": "INDUSTRYCARE II: Ferramenta prescritiva de apoio à  tomada de decisão para otimização operacional de  processos industriais",
+        "nickname": "INDUSTRYCARE II",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": "2024-03-06 00:00:00",
+        "data_termino_contrato": "2025-12-08 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Vinicius Sebba Patto",
+                "email": "vinicius.patto@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.195",
+                "cod_centro_custo": "25115",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22330-1"
+            },
+            {
+                "centro_custo": "88.197",
+                "cod_centro_custo": "25116",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22332-8"
+            },
+            {
+                "centro_custo": "88.196",
+                "cod_centro_custo": "25118",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22331-X"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.010591/2024-81",
+        "codigo_srinfo": "PEIA-2403.0074",
+        "nome_do_projeto": "GEMA ELÉTRICA:  Inteligência Artificial Aplicada na Estimativa de Custos e Esforços em Gerenciamento de Projetos",
+        "nickname": "GEMA",
+        "gestor_funape": "Fernanda",
+        "data_inicio_contrato": "2024-03-06 00:00:00",
+        "data_termino_contrato": "2025-08-06 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Sávio Salvarino Teles de Oliveira",
+                "email": "savio.oliveira@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.204",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22352-2"
+            },
+            {
+                "centro_custo": "88.206",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22355-7"
+            },
+            {
+                "centro_custo": "88.205",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22353-0"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.010592/2024-25",
+        "codigo_srinfo": "PEIA-2403.0078",
+        "nome_do_projeto": "DM HEALTH III: Algoritmos inteligentes para apoio ao monitoramento remoto de saúde mental",
+        "nickname": "DM HEALTH III",
+        "gestor_funape": "Heitor",
+        "data_inicio_contrato": "2024-03-08 00:00:00",
+        "data_termino_contrato": "2026-01-08 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Renato Bulcão",
+                "email": "renato.neto@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.201",
+                "cod_centro_custo": "25240",
+                "tipo_financiamento": "EMBRAPII-SAÚDE",
+                "conta": "22338-7"
+            },
+            {
+                "centro_custo": "88.203",
+                "cod_centro_custo": "25241",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22351-4"
+            },
+            {
+                "centro_custo": "88.202",
+                "cod_centro_custo": "25242",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22350-6"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.011767/2025-01",
+        "codigo_srinfo": "PEIA-2504.0115",
+        "nome_do_projeto": "GETSNACK: Automação e otimização da cadeia de suprimentos para smart stores",
+        "nickname": "GETSNACK",
+        "gestor_funape": "Fernanda",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Iwens Gervásio Sene Júnior",
+                "email": "iwens.sene@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.324",
+                "cod_centro_custo": "25172",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "23363-3"
+            },
+            {
+                "centro_custo": "88.326",
+                "cod_centro_custo": "25174",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23365-X"
+            },
+            {
+                "centro_custo": "88.325",
+                "cod_centro_custo": "25173",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "23364-1"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.012268/2024-41",
+        "codigo_srinfo": "PEIA-2403.0077",
+        "nome_do_projeto": "DVCO: Algoritmos inteligentes para sintetização e conversão de vozes",
+        "nickname": "DVCO",
+        "gestor_funape": "Erasmo",
+        "data_inicio_contrato": "2024-03-13 00:00:00",
+        "data_termino_contrato": "2026-02-13 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.198",
+                "cod_centro_custo": "25158",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22333-6"
+            },
+            {
+                "centro_custo": "88.2",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22335-2"
+            },
+            {
+                "centro_custo": "88.199",
+                "cod_centro_custo": "25159",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22334-4"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.013262/2025-72",
+        "codigo_srinfo": "PEIA-2504.0122",
+        "nome_do_projeto": "DIO: Dental Deep: um protótipo de avaliação parcial de algumas alterações em raio-x odontológico",
+        "nickname": "DIO",
+        "gestor_funape": "Adrielly",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Celso Gonçalves Camilo Junior",
+                "email": "celso.camilo@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.32",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMBRAPII-SAÚDE",
+                "conta": "23345-5"
+            },
+            {
+                "centro_custo": "88.318",
+                "cod_centro_custo": "25362",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23343-9"
+            },
+            {
+                "centro_custo": "88.319",
+                "cod_centro_custo": "25361",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "23344-7"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.013690/2024-14",
+        "codigo_srinfo": "PEIA-2403.0080",
+        "nome_do_projeto": "RÁPIDO ARAGUAIA: Algoritmos Inteligentes para Manutenção Preventiva de Veículos de Transporte Público",
+        "nickname": "RÁPIDO",
+        "gestor_funape": "Erasmo",
+        "data_inicio_contrato": "2024-03-21 00:00:00",
+        "data_termino_contrato": "2025-09-21 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Gustavo Teodoro Laureano",
+                "email": "gustavo.laureano@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.213",
+                "cod_centro_custo": "25153",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22366-2"
+            },
+            {
+                "centro_custo": "88.214",
+                "cod_centro_custo": "25154",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22367-0"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.013708/2024-88",
+        "codigo_srinfo": "PEIA-2403.0079",
+        "nome_do_projeto": "APPORTEIRA: Inteligência Artificial na Identificação de Marcas em Bovinos",
+        "nickname": "APPORTEIRA",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": "2024-03-14 00:00:00",
+        "data_termino_contrato": "2025-10-23 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Aldo André Diaz Salazar",
+                "email": "aldo.salazar@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.21",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "BNDES",
+                "conta": "22359-X"
+            },
+            {
+                "centro_custo": "88.212",
+                "cod_centro_custo": "24768",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22361-1"
+            },
+            {
+                "centro_custo": "88.211",
+                "cod_centro_custo": "24769",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22360-3"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.014063/2025-81",
+        "codigo_srinfo": "PEIA-2504.0111",
+        "nome_do_projeto": "Ssoft III: Inteligência Artificial para análise multitarefa de feedbacks de usuários com uso de Large Language Models",
+        "nickname": "",
+        "gestor_funape": "Vitória Aquino",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Adailton Ferreira de Araújo",
+                "email": "adailton.ferreira.de.araujo@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.304",
+                "cod_centro_custo": "25426",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "23184-3"
+            },
+            {
+                "centro_custo": "88.302",
+                "cod_centro_custo": "25427",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23182-7"
+            },
+            {
+                "centro_custo": "88.303",
+                "cod_centro_custo": "25428",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "23183-5"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.014345/2025-89",
+        "codigo_srinfo": "PEIA-2504.0114",
+        "nome_do_projeto": "COGNI: Ferramenta de busca em sítios web usando bots para processamento de linguagem natural",
+        "nickname": "COGNI",
+        "gestor_funape": "Adrielly",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Vinícius Sebba Patto",
+                "email": "vinicius.patto@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.309",
+                "cod_centro_custo": "24762",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "23189-4"
+            },
+            {
+                "centro_custo": "88.307",
+                "cod_centro_custo": "24765",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23187-8"
+            },
+            {
+                "centro_custo": "88.308",
+                "cod_centro_custo": "24764",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "23188-6"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.014813/2025-15",
+        "codigo_srinfo": "PEIA-2504-0113",
+        "nome_do_projeto": "Pingo: Inteligência Artificial aplicada à Promoção da Parentalidade na Primeira Infância",
+        "nickname": "",
+        "gestor_funape": "Vitória Aquino",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Nádia Félix Felipe da Silva",
+                "email": "nádia.felix.felipe.da.silva@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.317",
+                "cod_centro_custo": "24853",
+                "tipo_financiamento": "EMBRAPII-SAÚDE",
+                "conta": "23342-0"
+            },
+            {
+                "centro_custo": "88.315",
+                "cod_centro_custo": "24854",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23340-4"
+            },
+            {
+                "centro_custo": "88.316",
+                "cod_centro_custo": "24855",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "23341-2"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.015432/2025-53",
+        "codigo_srinfo": "PEIA-2504.0120",
+        "nome_do_projeto": "IndustryCare III: Framework preditivo e prescritivo de apoio à tomada de decisão para otimização operacional de fornos de combustão contínua",
+        "nickname": "",
+        "gestor_funape": "Adrielly",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Vinícius Sebba Patto",
+                "email": "vinicius.patto@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.31",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "23190-8"
+            },
+            {
+                "centro_custo": "88.311",
+                "cod_centro_custo": "25453",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23191-6"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.015828/2025-09",
+        "codigo_srinfo": "PEIA-2504.0112",
+        "nome_do_projeto": "PA Group: Plataforma de BI Aprimorada com IA Generativa: Redefinindo a Experiência do Usuário e a Descoberta de Insights",
+        "nickname": "PA",
+        "gestor_funape": "Fernanda",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Vagner José do Sacramento Rodrigues",
+                "email": "vagner.sacramento@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.305",
+                "cod_centro_custo": "25170",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "23185-1"
+            },
+            {
+                "centro_custo": "88.306",
+                "cod_centro_custo": "25171",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23186-x"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.016370/2025-05",
+        "codigo_srinfo": "PEIA-2504.0119",
+        "nome_do_projeto": "PEDRA 39 II: Desenvolvimento de arquitetura de software para sintetização de voz com expressões emocionais",
+        "nickname": "PEDRA 39 II",
+        "gestor_funape": "Vitória Aquino",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.323",
+                "cod_centro_custo": "24783",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "23348-x"
+            },
+            {
+                "centro_custo": "88.321",
+                "cod_centro_custo": "24784",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23346-3"
+            },
+            {
+                "centro_custo": "88.322",
+                "cod_centro_custo": "24785",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "23347-1"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.016384/2025-11",
+        "codigo_srinfo": "PEIA-2504.0117",
+        "nome_do_projeto": "LOGÍSTICA II: ​Gestão de Estoques Inteligentes com Predição e Visão Computacional​ ",
+        "nickname": "LOGÍSTICA",
+        "gestor_funape": "Vitória Aquino",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.314",
+                "cod_centro_custo": "25076",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "23339-0"
+            },
+            {
+                "centro_custo": "88.312",
+                "cod_centro_custo": "25078",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23337-4"
+            },
+            {
+                "centro_custo": "88.313",
+                "cod_centro_custo": "25077",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "23338-2"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.016704/2022-90",
+        "codigo_srinfo": "PEIA-2203.0026",
+        "nome_do_projeto": "SSOFT II: P&D: Aprendizado de Máquina com Human-in-the-loop (HITL) para Mineração de Opiniões",
+        "nickname": "SSOFT II",
+        "gestor_funape": "Fernanda",
+        "data_inicio_contrato": "2022-03-22 00:00:00",
+        "data_termino_contrato": "2024-09-21 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Adailton Ferreira de Araujo",
+                "email": "adailton.araujo@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.051",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "21080-3"
+            },
+            {
+                "centro_custo": "88.052",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "21.064-1"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.020530/2025-11",
+        "codigo_srinfo": "PEIA-2505.0124",
+        "nome_do_projeto": "Personal FIT: Maximizando os Resultados com Treinos Prescritos por IA",
+        "nickname": "",
+        "gestor_funape": "Vitória Aquino",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Leonardo Antonio Alves",
+                "email": "leonardo.alves@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.338",
+                "cod_centro_custo": "25122",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "23450-8"
+            },
+            {
+                "centro_custo": "88.339",
+                "cod_centro_custo": "25123",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23451-6"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.022434/2025-07",
+        "codigo_srinfo": "PEIA-2505.0123",
+        "nome_do_projeto": "Inside: Automação do Sucesso de Clientes em Sistemas de Gestão Empresarial Utilizando Agentes de Inteligência Artificial",
+        "nickname": "",
+        "gestor_funape": "Ranielly",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Thiago Naves",
+                "email": "thiago.naves@ceia.ufg.br"
+            },
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.335",
+                "cod_centro_custo": "25471",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "23447-8"
+            },
+            {
+                "centro_custo": "88.337",
+                "cod_centro_custo": "25472",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23449-4"
+            },
+            {
+                "centro_custo": "88.336",
+                "cod_centro_custo": "25470",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "23448-6"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.022489/2024-28",
+        "codigo_srinfo": "PEIA-2405.0081",
+        "nome_do_projeto": "DIGEFX: SmartVision: Gerenciamento e Minimização de Riscos de Segurança de Trabalho na Execução de Serviços através de Inteligência Artificial",
+        "nickname": "DIGEFX",
+        "gestor_funape": "Juliana Terra",
+        "data_inicio_contrato": "2024-05-10 00:00:00",
+        "data_termino_contrato": "2026-02-10 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Thyago Carvalho Marques",
+                "email": "thyago.marques@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.219",
+                "cod_centro_custo": "24748",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22497-9"
+            },
+            {
+                "centro_custo": "88.218",
+                "cod_centro_custo": "24751",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22485-5"
+            },
+            {
+                "centro_custo": "88.22",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22498-7"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.023426/2024-99",
+        "codigo_srinfo": "PEIA-2405.0082",
+        "nome_do_projeto": "PETIT: Ferramenta para rastreabilidade de produtos vegetais com uso de blockchain",
+        "nickname": "PETIT",
+        "gestor_funape": "Matheus Vilas Boas",
+        "data_inicio_contrato": "2024-05-10 00:00:00",
+        "data_termino_contrato": "2026-02-10 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Vinícius Sebba Patto",
+                "email": "vinicius.patto@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.227",
+                "cod_centro_custo": "24944",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22501-0"
+            },
+            {
+                "centro_custo": "88.226",
+                "cod_centro_custo": "24945",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22488-X"
+            },
+            {
+                "centro_custo": "88.228",
+                "cod_centro_custo": "24946",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22502-9"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.023462/2024-52",
+        "codigo_srinfo": "PEIA-2405.0084",
+        "nome_do_projeto": "ATHON: Previsão de rateio de créditos para o consumo de energia solar com o uso de Inteligência Artificial",
+        "nickname": "ATHON",
+        "gestor_funape": "Heitor",
+        "data_inicio_contrato": "2024-05-13 00:00:00",
+        "data_termino_contrato": "2026-02-13 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Thyago Carvalho Marques",
+                "email": "thyago.marques@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.222",
+                "cod_centro_custo": "25419",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22499-5"
+            },
+            {
+                "centro_custo": "88.221",
+                "cod_centro_custo": "25421",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22486-3"
+            },
+            {
+                "centro_custo": "88.223",
+                "cod_centro_custo": "25420",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22500-2"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.023516/2024-80",
+        "codigo_srinfo": "PEIA-2405.0085",
+        "nome_do_projeto": "ODM: Inteligência Artificial na Geração de Métodos Quantitativos para Previsão de Indicadores Econômicos​",
+        "nickname": "ODM",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": "2024-05-14 00:00:00",
+        "data_termino_contrato": "2026-01-14 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.23",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22503-7"
+            },
+            {
+                "centro_custo": "88.229",
+                "cod_centro_custo": "25448",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22489-8"
+            },
+            {
+                "centro_custo": "88.231",
+                "cod_centro_custo": "25449",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22504-5"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.023745/2024-02",
+        "codigo_srinfo": "Não é Embrapii",
+        "nome_do_projeto": "SEBRAE INPI",
+        "nickname": "SEBRAE",
+        "gestor_funape": "Erasmo",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Taciana Novo Kudo",
+                "email": "taciana.kudo@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "32.117",
+                "cod_centro_custo": "25359",
+                "tipo_financiamento": null,
+                "conta": "23.115-0"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.023952/2024-59",
+        "codigo_srinfo": "PEIA-2405.0088",
+        "nome_do_projeto": "KOREDATA: DAISEE: Vigilância e Análise de Dados Avançada Com Modelos Massivos de Linguagem para Empoderamento de Líderes",
+        "nickname": "KOREDATA",
+        "gestor_funape": "Gabriela Valente",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.233",
+                "cod_centro_custo": "24951",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22512-6"
+            },
+            {
+                "centro_custo": "88.235",
+                "cod_centro_custo": "24952",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22541-X"
+            },
+            {
+                "centro_custo": "88.234",
+                "cod_centro_custo": "24950",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22540-1"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.023961/2024-40",
+        "codigo_srinfo": "PEIA-2405.0093",
+        "nome_do_projeto": "BONADIMANN -EDUBOTS: CHATBOTS PARA TUTORIA PEDAGÓGICA CENTRADA EM ROBÓTICA COM ALUNOS DE ESCOLAS",
+        "nickname": "BONADIMANN -EDUBOTS",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.232",
+                "cod_centro_custo": "25358",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22.511-8"
+            },
+            {
+                "centro_custo": "88.237",
+                "cod_centro_custo": "25356",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22.546-0"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.023961/2024-40",
+        "codigo_srinfo": "PEIA-2405.0093",
+        "nome_do_projeto": "e Tomada de Decisão Utilizando Inteligência Artificial e Sensoriamento",
+        "nickname": "",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.236",
+                "cod_centro_custo": "25357",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22.545-2"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.024052/2024-29",
+        "codigo_srinfo": "PEIA-2407.0086",
+        "nome_do_projeto": "MELVIN II: Diagnóstico de Falha de Equipamentos",
+        "nickname": "MELVIN II",
+        "gestor_funape": "Luciene",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Flávio Henrique Teles Vieira",
+                "email": "flavio.vieira@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.242",
+                "cod_centro_custo": "22090",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22580-0"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.024052/2024-29",
+        "codigo_srinfo": "PEIA-2407.0086",
+        "nome_do_projeto": "MELVIN II: Diagnóstico de Falha de Equipamentos e Tomada de Decisão Utilizando Inteligência Artificial e Sensoriamento",
+        "nickname": "MELVIN II",
+        "gestor_funape": "Luciene",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Flávio Henrique Teles Vieira",
+                "email": "flavio.vieira@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.241",
+                "cod_centro_custo": "22093",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22579-7"
+            },
+            {
+                "centro_custo": "88.243",
+                "cod_centro_custo": "22092",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22581-9"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.024567/2024-29",
+        "codigo_srinfo": "PEIA-2409.0089",
+        "nome_do_projeto": "VR HEALTH: Inteligência Artificial Aplicada na Criação de Assistente Virtual para Automação de Tarefas em Prontuários Inteligência Eletrônicos",
+        "nickname": "VR HEALTH",
+        "gestor_funape": "Gabriela Valente",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Sávio Salvarino Teles de Oliveira",
+                "email": "savio.oliveira@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.225",
+                "cod_centro_custo": "25127",
+                "tipo_financiamento": "EMBRAPII-SAÚDE",
+                "conta": "22665-3"
+            },
+            {
+                "centro_custo": "88.224",
+                "cod_centro_custo": "25132",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22487-1"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.024765/2025-73",
+        "codigo_srinfo": "PEIA-2505.0125",
+        "nome_do_projeto": "Pluginbot: CONTROLE INTELIGENTE DE FROTAS COM OPEN-RMF PARA VEÍCULOS LEVES AUTÔNOMOS EM AMBIENTES SOCIAIS URBANOS",
+        "nickname": "",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Gustavo Teodoro Laureano",
+                "email": "gustavo.laureano@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.34",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "ROTA2030",
+                "conta": "23452-4"
+            },
+            {
+                "centro_custo": "88.342",
+                "cod_centro_custo": "25223",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23454-0"
+            },
+            {
+                "centro_custo": "88.341",
+                "cod_centro_custo": "25222",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "23453-2"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.026546/2025-29",
+        "codigo_srinfo": "PEIA-2506.0126",
+        "nome_do_projeto": "Aravita: Balança Visual: Estimativa de peso e contagem de itens FLV através de visão computacional",
+        "nickname": "",
+        "gestor_funape": "Ranielly",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            },
+            {
+                "nome": "Thiago Naves",
+                "email": "thiago.naves@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.352",
+                "cod_centro_custo": "25474",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "23497-4"
+            },
+            {
+                "centro_custo": "88.354",
+                "cod_centro_custo": "25475",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23499-0"
+            },
+            {
+                "centro_custo": "88.353",
+                "cod_centro_custo": "25476",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "23498-2"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.026553/2025-21",
+        "codigo_srinfo": "PEIA-2506.0127",
+        "nome_do_projeto": "GEOMAIS II: Desenvolvimento de assistente inteligente para qualificação de atendimento em vendas - goIA",
+        "nickname": "GEOMAIS II",
+        "gestor_funape": null,
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Celso Gonçalves Camilo Junior",
+                "email": "celso.camilo@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.355",
+                "cod_centro_custo": "25413",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "23584-9"
+            },
+            {
+                "centro_custo": "88.357",
+                "cod_centro_custo": "25416",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23587-3"
+            },
+            {
+                "centro_custo": "88.356",
+                "cod_centro_custo": "25415",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "23585-7"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.026687/2024-61",
+        "codigo_srinfo": "PEIA-2406.0087",
+        "nome_do_projeto": "LEMKE/ALFACOM: Geração de Tutores Virtuais Inteligentes Através de Agentes de Linguagem Natural",
+        "nickname": "LEMKE/ALFACOM:",
+        "gestor_funape": "Gabriela Valente",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.239",
+                "cod_centro_custo": "25155",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22576-2"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.026687/2024-61",
+        "codigo_srinfo": "PEIA-2406.0087",
+        "nome_do_projeto": "LEMKE/ALFACOM: Geração de Tutores Virtuais Inteligentes Através de Agentes de Linguagem Natural",
+        "nickname": "LEMKE/ALFACOM:",
+        "gestor_funape": "Gabriela Valente",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Thiago Naves",
+                "email": "thiago.naves@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.24",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22577-0"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.026687/2024-61",
+        "codigo_srinfo": "PEIA-2406.0087",
+        "nome_do_projeto": "LEMKE/ALFACOM: Geração de Tutores Virtuais Inteligentes Através de Agentes de Linguagem Natural",
+        "nickname": "LEMKE/ALFACOM:",
+        "gestor_funape": "Gabriela Valente",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [],
+        "centros_custos": [
+            {
+                "centro_custo": "88.238",
+                "cod_centro_custo": "25157",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22575-4"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.026894/2025-04",
+        "codigo_srinfo": "PEIA-2506.0129",
+        "nome_do_projeto": "NOLEAK IV: MOTOR BIOMÉTRICO VETORIAL DE ALTA PERFORMANCE PARA DETECÇÃO DE SIMILARIDADE",
+        "nickname": "NOLEAK IV",
+        "gestor_funape": "Ranielly",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Ricardo Augusto Pereira Franco",
+                "email": "ricardo.franco@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.346",
+                "cod_centro_custo": "25307",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "23493-1"
+            },
+            {
+                "centro_custo": "88.348",
+                "cod_centro_custo": "25309",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23485-0"
+            },
+            {
+                "centro_custo": "88.347",
+                "cod_centro_custo": "25308",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "23484-2"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.027529/2025-17",
+        "codigo_srinfo": "PEIA-2506.0129",
+        "nome_do_projeto": "GOSHARP: SISTEMAS INTELIGENTES PARA OTIMIZAÇÃO DE ESTOQUE POR MEIO DE PREVISÃO DE VENDAS E RECOMENDAÇÃO DE AÇÕES",
+        "nickname": "GOSHARP",
+        "gestor_funape": "Fernanda",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Telma Woerle de Lima Soares",
+                "email": "telma.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.349",
+                "cod_centro_custo": "25382",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "23489-3"
+            },
+            {
+                "centro_custo": "88.351",
+                "cod_centro_custo": "25383",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23492-3"
+            },
+            {
+                "centro_custo": "88.35",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "23490-7"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.027765/2025-25",
+        "codigo_srinfo": "PEIA-2506.0128",
+        "nome_do_projeto": "GEMA ELÉTRICA II: INTELIGÊNCIA ARTIFICIAL CONVERSACIONAL PARA TOMADA DE DECISÃO EM GESTÃO DE PROJETOS",
+        "nickname": "GEMA",
+        "gestor_funape": "Ranielly",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Sávio Salvarino Teles de Oliveira",
+                "email": "savio.oliveira@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.343",
+                "cod_centro_custo": "25436",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "23486-9"
+            },
+            {
+                "centro_custo": "88.345",
+                "cod_centro_custo": "25438",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23488-5"
+            },
+            {
+                "centro_custo": "88.344",
+                "cod_centro_custo": "25437",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "23487-7"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.028021/2023-66",
+        "codigo_srinfo": "PEIA-2305.0043",
+        "nome_do_projeto": "NEURALMIND II: Validação e Aprimoramento de algoritmos Inteligentes para Extração de informações não estruturadas em documentos",
+        "nickname": "NEURALMIND II",
+        "gestor_funape": "Adrielly",
+        "data_inicio_contrato": "2023-05-15 00:00:00",
+        "data_termino_contrato": "2025-08-14 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.105",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "21670-4"
+            },
+            {
+                "centro_custo": "88.107",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "21672-0"
+            },
+            {
+                "centro_custo": "88.106",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "21671-2"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.028518/2023-84",
+        "codigo_srinfo": "PEIA-2305.0044",
+        "nome_do_projeto": "REDE EMPRESARIAL II: Geração Automática de Textos Jurídicos Utilizando Modelos de Geradores de Linguagem Natural",
+        "nickname": "REDE EMPRESARIAL II",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": "2023-05-16 00:00:00",
+        "data_termino_contrato": "2025-08-15 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Arlindo Rodrigues Galvão Filho",
+                "email": "arlindo.galvao@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.108",
+                "cod_centro_custo": "23711",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "21673-9"
+            },
+            {
+                "centro_custo": "88.11",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "21675-5"
+            },
+            {
+                "centro_custo": "88.109",
+                "cod_centro_custo": "23714",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "21674-7"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.033430/2023-84",
+        "codigo_srinfo": "PEIA-2306.0050",
+        "nome_do_projeto": "DATAMETRICA II: Automação de processos em centrais de atendimento utilizando engenharia de prompts e inserção de bases de conhecimento em modelos de linguagem de grande porte",
+        "nickname": "DATAMETRICA II",
+        "gestor_funape": "Adrielly",
+        "data_inicio_contrato": "2023-06-12 00:00:00",
+        "data_termino_contrato": "2025-09-12 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Arlindo Rodrigues Galvão Filho",
+                "email": "arlindo.galvao@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.13",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "21809-X"
+            },
+            {
+                "centro_custo": "88.132",
+                "cod_centro_custo": "24108",
+                "tipo_financiamento": "EMPRESA GRANDE",
+                "conta": "21811-1"
+            },
+            {
+                "centro_custo": "88.133",
+                "cod_centro_custo": "24111",
+                "tipo_financiamento": "EMPRESA PEQ",
+                "conta": "21.836-7"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.033430/2023-84",
+        "codigo_srinfo": "PEIA-2306.0050",
+        "nome_do_projeto": "DATAMÉTRICA II: Automação de processos em centrais de atendimento utilizando engenharia de prompts e inserção de bases de conhecimento em modelos de linguagem de grande porte",
+        "nickname": "DATAMÉTRICA",
+        "gestor_funape": "Adrielly",
+        "data_inicio_contrato": "2023-06-12 00:00:00",
+        "data_termino_contrato": "2025-09-12 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Arlindo Rodrigues Galvão Filho",
+                "email": "arlindo.galvao@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.131",
+                "cod_centro_custo": "24110",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "21810-3"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.033477/2023-48",
+        "codigo_srinfo": "PEIA-2306.0051",
+        "nome_do_projeto": "ZSCAN: Algoritmos Inteligentes para Detecção de",
+        "nickname": "ZSCAN",
+        "gestor_funape": "Henrique",
+        "data_inicio_contrato": "2023-06-08 00:00:00",
+        "data_termino_contrato": "2025-02-08 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Ricardo Augusto Pereira Franco",
+                "email": "ricardo.franco@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.126",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "BNDES",
+                "conta": "21769-7"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.033477/2023-48",
+        "codigo_srinfo": "PEIA-2306.0051",
+        "nome_do_projeto": "ZSCAN: Algoritmos Inteligentes para Detecção de Anomalias em Imagens no Apoio a Tomada de Decisão",
+        "nickname": "ZSCAN",
+        "gestor_funape": "Henrique",
+        "data_inicio_contrato": "2023-06-08 00:00:00",
+        "data_termino_contrato": "2025-02-08 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Ricardo Augusto Pereira Franco",
+                "email": "ricardo.franco@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.128",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "21771-9"
+            },
+            {
+                "centro_custo": "88.127",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "21770-0"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.033534/2023-99",
+        "codigo_srinfo": "PEIA-2305.0045",
+        "nome_do_projeto": "SYNKAR IV: Desenvolvimento e aplicação de técnicas de percepção e localização de veículos autônomos no contexto do território brasileiro",
+        "nickname": "SYNKAR IV",
+        "gestor_funape": "Rhayka",
+        "data_inicio_contrato": "2023-06-21 00:00:00",
+        "data_termino_contrato": "2025-06-21 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Gustavo Teodoro Laureano",
+                "email": "gustavo.laureano@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.125",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "ROTA 2030",
+                "conta": "21768-9"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.033560/2023-17",
+        "codigo_srinfo": "PEIA-2305.0047",
+        "nome_do_projeto": "NOLEAK III: Desenvolvimento de um módulo de visão computacional para segurança veicular considerando restrições de privacidade e eficiência energética",
+        "nickname": "NOLEAK III",
+        "gestor_funape": "Rhayka",
+        "data_inicio_contrato": "2023-05-25 00:00:00",
+        "data_termino_contrato": "2024-10-25 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.123",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "ROTA 2030",
+                "conta": "21766-2"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.033829/2023-65",
+        "codigo_srinfo": "PEIA-2305.0046",
+        "nome_do_projeto": "MR TURING II: Monitoramento da vida útil do ciclo de produto automotivo utilizando técnicas de mineração de dados e inteligência artificial",
+        "nickname": "MR TURING II",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": "2023-05-25 00:00:00",
+        "data_termino_contrato": "2024-10-25 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.124",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "ROTA 2030",
+                "conta": "21767-0"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.034961/2023-94",
+        "codigo_srinfo": "PEIA-2305.0048",
+        "nome_do_projeto": "IMOL: Planejamento inteligente da linha de produção para indústria moveleira",
+        "nickname": "IMOL",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": "2023-05-25 00:00:00",
+        "data_termino_contrato": "2025-08-25 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Telma Woerle de Lima Soares",
+                "email": "telma.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.12",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "BNDES",
+                "conta": "21763-8"
+            },
+            {
+                "centro_custo": "88.122",
+                "cod_centro_custo": "24874",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "21765-4"
+            },
+            {
+                "centro_custo": "88.121",
+                "cod_centro_custo": "24870",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "21764-6"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.035017/2023-54",
+        "codigo_srinfo": "PEIA-2305.0049",
+        "nome_do_projeto": "DM HEALTH II: Algoritmos Inteligentes para Sistema de Recomendação de Conteúdo Psicoeducativo para Depressão e Ansiedade",
+        "nickname": "DM HEALTH II",
+        "gestor_funape": "Vitória Aquino",
+        "data_inicio_contrato": "2023-05-18 00:00:00",
+        "data_termino_contrato": "2025-09-18 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Arlindo Rodrigues Galvão Filho",
+                "email": "arlindo.galvao@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.117",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "BNDES",
+                "conta": "21737-9"
+            },
+            {
+                "centro_custo": "88.119",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "21739-5"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.039689/2024-10",
+        "codigo_srinfo": "PEIA-2409.0092",
+        "nome_do_projeto": "HUNTER II: Uma Abordagem de Aprendizado de Máquina para Previsão de Sucesso de Processos Jurídicos",
+        "nickname": "HUNTER II",
+        "gestor_funape": "Heitor",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            },
+            {
+                "nome": "Rodrigo Zempulski Fanucchi",
+                "email": "rodrigo.fanucchi@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.244",
+                "cod_centro_custo": "25145",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22638-6"
+            },
+            {
+                "centro_custo": "88.246",
+                "cod_centro_custo": "25146",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22641-6"
+            },
+            {
+                "centro_custo": "88.245",
+                "cod_centro_custo": "25144",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22640-8"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.039695/2024-77",
+        "codigo_srinfo": "PEIA-2409.0094",
+        "nome_do_projeto": "REQUISITO II: Uso de tecnologias para criação de um robô construtor de Software as a Medical Device – SaMD",
+        "nickname": "REQUISITO II",
+        "gestor_funape": "Luciene",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Taciana Novo Kudo",
+                "email": "taciana.kudo@ceia.ufg.br"
+            },
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.251",
+                "cod_centro_custo": "24929",
+                "tipo_financiamento": "EMBRAPII-SAÚDE",
+                "conta": "22672-6"
+            },
+            {
+                "centro_custo": "88.253",
+                "cod_centro_custo": "24930",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22667-X"
+            },
+            {
+                "centro_custo": "88.252",
+                "cod_centro_custo": "24927",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22666-1"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.039698/2024-19",
+        "codigo_srinfo": "PEIA-2409.0090",
+        "nome_do_projeto": "4 VANTS II: Aplicação de aprendizado ativo para construção em larga escala de modelos de visão computacional para inspeção de ativos em redes de distribuição e transmissão de energia elétrica",
+        "nickname": "",
+        "gestor_funape": "Gabriela Valente",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Lucas Araújo Pereira",
+                "email": "lucas.pereira@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.247",
+                "cod_centro_custo": "24723",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22643-2"
+            },
+            {
+                "centro_custo": "88.249",
+                "cod_centro_custo": "24725",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22645-9"
+            },
+            {
+                "centro_custo": "88.248",
+                "cod_centro_custo": "24724",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22644-0"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.042396/2024-10",
+        "codigo_srinfo": "PEIA-2409.0096",
+        "nome_do_projeto": "MR. TURING IV: Técnicas avançadas de processamento de linguagem natural e de teoria dos grafos para monitoramento do ciclo de produto automotivo em dados não estruturados",
+        "nickname": "MR. TURING IV",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            },
+            {
+                "nome": "Rodrigo Zempulski Fanucchi",
+                "email": "rodrigo.fanucchi@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.254",
+                "cod_centro_custo": "25454",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22668-8"
+            },
+            {
+                "centro_custo": "88.255",
+                "cod_centro_custo": "25456",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22669-6"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.042404/2024-28",
+        "codigo_srinfo": "PEIA-2409.0091",
+        "nome_do_projeto": "TABOCÃO: O Uso de Inteligência Artificial para Otimizar a Alocação de Recursos no Transporte e Distribuição de Combustíveis",
+        "nickname": "TABOCÃO:",
+        "gestor_funape": "Luciene",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Vagner José do Sacramento Rodrigues",
+                "email": "vagner.sacramento@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.256",
+                "cod_centro_custo": "25151",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22670-X"
+            },
+            {
+                "centro_custo": "88.257",
+                "cod_centro_custo": "25152",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22671-8"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.043476/2023-10",
+        "codigo_srinfo": "PEIA-2309.0054",
+        "nome_do_projeto": "GEOMAIS: Sistema de análise de padrões de compras recorrentes",
+        "nickname": "GEOMAIS",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": "2023-09-11 00:00:00",
+        "data_termino_contrato": "2025-03-10 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Iwens Gervásio Sene Júnior",
+                "email": "iwens.sene@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.134",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "21900-2"
+            },
+            {
+                "centro_custo": "88.136",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "21902-9"
+            },
+            {
+                "centro_custo": "88.135",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "21901-0"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.043683/2019-80",
+        "codigo_srinfo": "Não é Embrapii",
+        "nome_do_projeto": "CEIA/FAPEG",
+        "nickname": "",
+        "gestor_funape": "Fernanda",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "32.087",
+                "cod_centro_custo": "",
+                "tipo_financiamento": null,
+                "conta": "19989-3"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.043683/2019-80",
+        "codigo_srinfo": "Não é Embrapii",
+        "nome_do_projeto": "CEIA/FAPEG - Aditivo",
+        "nickname": "CEIA/FAPEG",
+        "gestor_funape": "Fernanda",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "32087.001",
+                "cod_centro_custo": "",
+                "tipo_financiamento": null,
+                "conta": "22.759-5"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.045817/2024-64",
+        "codigo_srinfo": "PEIA-2410.0098",
+        "nome_do_projeto": "Wibi - Dream Books: Inteligência Artificial Aplicada à Gamificação para o Aprimoramento da Prática de Sonhos Lúcidos",
+        "nickname": "",
+        "gestor_funape": "Gabriela Valente",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Leonardo Antonio Alves",
+                "email": "leonardo.alves@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.261",
+                "cod_centro_custo": "25257",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22.701-3"
+            },
+            {
+                "centro_custo": "88.263",
+                "cod_centro_custo": "25259",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22.703-X"
+            },
+            {
+                "centro_custo": "88.262",
+                "cod_centro_custo": "25258",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22.702-1"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.046730/2023-23",
+        "codigo_srinfo": "PEIA-2309.0053",
+        "nome_do_projeto": "MADEINWEB: Plataforma People Analytics",
+        "nickname": "MADEINWEB",
+        "gestor_funape": "Matheus Vilas Boas",
+        "data_inicio_contrato": "2023-09-11 00:00:00",
+        "data_termino_contrato": "2025-06-10 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Iwens Gervásio Sene Júnior",
+                "email": "iwens.sene@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.137",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "21903-7"
+            },
+            {
+                "centro_custo": "88.139",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "21906-1"
+            },
+            {
+                "centro_custo": "88.138",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "21904-5"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.046736/2023-09",
+        "codigo_srinfo": "PEIA-2309.0056",
+        "nome_do_projeto": "VALENTINA II: Validação de um software inteligente para otimização de campanhas publicitárias em ambientes digitais considerando estudos de caso em campanhas de saúde",
+        "nickname": "VALENTINA II",
+        "gestor_funape": "Juliana Terra",
+        "data_inicio_contrato": "2023-09-26 00:00:00",
+        "data_termino_contrato": "2025-09-25 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Telma Woerle de Lima Soares",
+                "email": "telma.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.146",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "BNDES",
+                "conta": "21932-0"
+            },
+            {
+                "centro_custo": "88.148",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "21934-7"
+            },
+            {
+                "centro_custo": "88.147",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "21933-9"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.048631/2023-86",
+        "codigo_srinfo": "PEIA-2309.0052",
+        "nome_do_projeto": "MEMOREBA: Educação Inteligente: Aprendizado adaptativo e memorização com uso de Inteligência Artificial",
+        "nickname": "MEMOREBA",
+        "gestor_funape": "Adrielly",
+        "data_inicio_contrato": "2023-09-11 00:00:00",
+        "data_termino_contrato": "2025-06-10 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Thyago Carvalho Marques",
+                "email": "thyago.marques@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.14",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "21907-X"
+            },
+            {
+                "centro_custo": "88.142",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "21909-6"
+            },
+            {
+                "centro_custo": "88.141",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "21908-8"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.049374/2024-81",
+        "codigo_srinfo": "PEIA-2410.0104",
+        "nome_do_projeto": "Maleta do Engenheiro: Assistente inteligente com interface de linguagem natural para apoio à coordenação de projetos BIM de construção",
+        "nickname": "",
+        "gestor_funape": "Heitor",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Gelson Cruz Junior",
+                "email": "gelson.cruz@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.264",
+                "cod_centro_custo": "25369",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22.726-9"
+            },
+            {
+                "centro_custo": "88.266",
+                "cod_centro_custo": "25371",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22.729-3"
+            },
+            {
+                "centro_custo": "88.265",
+                "cod_centro_custo": "25370",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22.727-7"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.049536/2024-81",
+        "codigo_srinfo": "PEIA-2409.0095",
+        "nome_do_projeto": "Brasweb - Oficina Conectada: Assistente inteligente para atendimento e diagnóstico veicular em oficinas mecânicas automobilísticas​",
+        "nickname": "",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Sávio Salvarino Teles de Oliveira",
+                "email": "savio.oliveira@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.276",
+                "cod_centro_custo": "25462",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22.753-6"
+            },
+            {
+                "centro_custo": "88.278",
+                "cod_centro_custo": "25461",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22.755-2"
+            },
+            {
+                "centro_custo": "88.277",
+                "cod_centro_custo": "25463",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22.754-4"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.049803/2024-10",
+        "codigo_srinfo": "PEIA-2410.0097",
+        "nome_do_projeto": "​BigLink - Datalogando: Processamento de Linguagem Natural para Análise e Otimização de Campanhas de Marketing Digital em Múltiplas Plataformas​",
+        "nickname": "",
+        "gestor_funape": "Heitor",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.258",
+                "cod_centro_custo": "25422",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22.692-0"
+            },
+            {
+                "centro_custo": "88.26",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22.700-5"
+            },
+            {
+                "centro_custo": "88.259",
+                "cod_centro_custo": "25425",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22.693-9"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.050574/2024-86",
+        "codigo_srinfo": "PEIA-2410.0099",
+        "nome_do_projeto": "RHTron: AidBot: um assistente para auxiliar o suporte de usuários em uma empresa de software para contabilidade",
+        "nickname": "",
+        "gestor_funape": "Fernanda",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Celso Gonçalves Camilo Junior",
+                "email": "celso.camilo@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.267",
+                "cod_centro_custo": "25163",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22.734-X"
+            },
+            {
+                "centro_custo": "88.269",
+                "cod_centro_custo": "25166",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22.736-6"
+            },
+            {
+                "centro_custo": "88.268",
+                "cod_centro_custo": "25165",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22.735-8"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.051184/2023-42",
+        "codigo_srinfo": "PEIA-2309.0055",
+        "nome_do_projeto": "LOGÍSTICA: Otimização Inteligente para Gestão de Logística e Estoque",
+        "nickname": "LOGÍSTICA:",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": "2023-09-12 00:00:00",
+        "data_termino_contrato": "2025-07-11 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.143",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "BNDES",
+                "conta": "21910-X"
+            },
+            {
+                "centro_custo": "88.145",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "21912-6"
+            },
+            {
+                "centro_custo": "88.144",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "21911-8"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.051532/2023-81",
+        "codigo_srinfo": "PEIA-2310.0058",
+        "nome_do_projeto": "ULTRALIGHT: Inteligência Artificial para Aprimoramento do Processo de Controle de Insetos",
+        "nickname": "ULTRALIGHT",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": "2023-10-04 00:00:00",
+        "data_termino_contrato": "2025-10-03 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Iwens Gervásio Sene Júnior",
+                "email": "iwens.sene@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.149",
+                "cod_centro_custo": "24202",
+                "tipo_financiamento": "BNDES",
+                "conta": "21968-1"
+            },
+            {
+                "centro_custo": "88.151",
+                "cod_centro_custo": "24203",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "21970-3"
+            },
+            {
+                "centro_custo": "88.15",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "21969-X"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.051568/2024-46",
+        "codigo_srinfo": "PEIA-2410.0100",
+        "nome_do_projeto": "SYNKAR V: Conectividade híbrida de veículos em cidades inteligentes no contexto brasileiro",
+        "nickname": "SYNKAR V",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Aldo André Diaz Salazar",
+                "email": "aldo.salazar@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.273",
+                "cod_centro_custo": "25348",
+                "tipo_financiamento": "ROTA2030",
+                "conta": "22.737-4"
+            },
+            {
+                "centro_custo": "88.275",
+                "cod_centro_custo": "25349",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22.739-0"
+            },
+            {
+                "centro_custo": "88.274",
+                "cod_centro_custo": "25350",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22.738-2"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.053133/2023-55",
+        "codigo_srinfo": "Não é Embrapii",
+        "nome_do_projeto": "TCE: GO - TRAFEGABILIDADE",
+        "nickname": "TCE",
+        "gestor_funape": "Heitor",
+        "data_inicio_contrato": "2023-08-23 00:00:00",
+        "data_termino_contrato": "2025-02-23 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Gustavo Teodoro Laureano",
+                "email": "gustavo.laureano@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "32.105",
+                "cod_centro_custo": "24803",
+                "tipo_financiamento": null,
+                "conta": "22363-8"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.053428/2023-21",
+        "codigo_srinfo": "PEIA-2310.0057",
+        "nome_do_projeto": "MATCHIT: Tecnologias de Inteligência Artificial para automatização das etapas de requisitos de projetos de tecnologia e inovação",
+        "nickname": "MATCHIT",
+        "gestor_funape": "Luciene",
+        "data_inicio_contrato": "2023-10-04 00:00:00",
+        "data_termino_contrato": "2025-08-03 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Taciana Novo Kudo",
+                "email": "taciana.kudo@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.152",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "21971-1"
+            },
+            {
+                "centro_custo": "88.154",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "21973-8"
+            },
+            {
+                "centro_custo": "88.153",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "21972-X"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.053443/2024-51",
+        "codigo_srinfo": "PEIA-2410.0101",
+        "nome_do_projeto": "CILIA III: Segmentação de instância de partes de veículos considerando múltiplos tipos de categorias",
+        "nickname": "CILIA III",
+        "gestor_funape": "Heitor",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.27",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "ROTA2030",
+                "conta": "22.744-7"
+            },
+            {
+                "centro_custo": "88.272",
+                "cod_centro_custo": "25481",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22.741-2"
+            },
+            {
+                "centro_custo": "88.271",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22.740-4"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.054245/2024-12",
+        "codigo_srinfo": "PEIA-2410.0102",
+        "nome_do_projeto": "LEVEROS: Otimização Inteligente da Gestão Logística de Estoques e Fretes em Centros de Distribuição Varejistas",
+        "nickname": "LEVEROS",
+        "gestor_funape": "Heitor",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Telma Woerle de Lima Soares",
+                "email": "telma.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.282",
+                "cod_centro_custo": "25484",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22.807-9"
+            },
+            {
+                "centro_custo": "88.284",
+                "cod_centro_custo": "25487",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22.809-5"
+            },
+            {
+                "centro_custo": "88.283",
+                "cod_centro_custo": "25486",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22.808-7"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.054252/2024-14",
+        "codigo_srinfo": "PEIA-2410.0103",
+        "nome_do_projeto": "HUG: Tecnologias de integração de agentes conversacionais para respostas complexas, utilizando Aprendizado por Reforço com Feedback (RLHF)",
+        "nickname": "HUG",
+        "gestor_funape": "Heitor",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Telma Woerle de Lima Soares",
+                "email": "telma.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.279",
+                "cod_centro_custo": "25372",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22804-4"
+            },
+            {
+                "centro_custo": "88.281",
+                "cod_centro_custo": "25374",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22806-0"
+            },
+            {
+                "centro_custo": "88.28",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22805-2"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.054558/2023-81",
+        "codigo_srinfo": "PEIA-2311.0061",
+        "nome_do_projeto": "POSITIVO: Software inteligente para mineração e gestão de informações em compras públicas de produtos industriais de tecnologias da informação",
+        "nickname": "POSITIVO",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": "2023-11-06 00:00:00",
+        "data_termino_contrato": "2025-11-05 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Adailton Ferreira de Araujo",
+                "email": "adailton.araujo@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.159",
+                "cod_centro_custo": "25354",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22014-0"
+            },
+            {
+                "centro_custo": "88.16",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22015-9"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.054575/2023-19",
+        "codigo_srinfo": "PEIA-2310.0060",
+        "nome_do_projeto": "CILIA II: Aprendizado de máquina utilizando imagens sintéticas de veículos automotores",
+        "nickname": "CILIA II",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": "2023-10-11 00:00:00",
+        "data_termino_contrato": "2024-12-10 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.155",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "ROTA 2030",
+                "conta": "22011-6"
+            },
+            {
+                "centro_custo": "88.156",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22012-4"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.055576/2024-61",
+        "codigo_srinfo": "PEIA-2411.0105",
+        "nome_do_projeto": "Escola Viva - Koru: Inteligência Artificial para Gestão e Desenvolvimento de Habilidades no Ambiente Corporativo",
+        "nickname": "",
+        "gestor_funape": "Fernanda",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Taciana Novo Kudo",
+                "email": "taciana.kudo@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.285",
+                "cod_centro_custo": "25299",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22.815-X"
+            },
+            {
+                "centro_custo": "88.287",
+                "cod_centro_custo": "25294",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22.818-4"
+            },
+            {
+                "centro_custo": "88.286",
+                "cod_centro_custo": "25300",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22.816-8"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.058498/2023-76",
+        "codigo_srinfo": "PEIA-2310.0059",
+        "nome_do_projeto": "SMART PROCESS: Tecnologias de Inteligência Artificial para acesso rápido ao diagnóstico dos processos",
+        "nickname": "SMART PROCESS",
+        "gestor_funape": "Rhayka",
+        "data_inicio_contrato": "2023-10-11 00:00:00",
+        "data_termino_contrato": "2025-01-10 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Taciana Novo Kudo",
+                "email": "taciana.kudo@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.157",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "BNDES",
+                "conta": "22.022-1"
+            },
+            {
+                "centro_custo": "88.158",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22.023-X"
+            },
+            {
+                "centro_custo": "0.0",
+                "cod_centro_custo": "",
+                "tipo_financiamento": null,
+                "conta": null
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.060960/2023-03",
+        "codigo_srinfo": "PEIA-2311.0063",
+        "nome_do_projeto": "ECUSTOMIZE: Agrupamento e Classificação Automatizada de Itens Descritivos em Licitações de Compras de Produtos pela Administração Pública",
+        "nickname": "ECUSTOMIZE",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": "2023-11-21 00:00:00",
+        "data_termino_contrato": "2026-08-21 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Vagner José do Sacramento Rodrigues",
+                "email": "vagner.sacramento@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.165",
+                "cod_centro_custo": "25089",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22071-X"
+            },
+            {
+                "centro_custo": "88.166",
+                "cod_centro_custo": "25090",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22072-8"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.061145/2021-91",
+        "codigo_srinfo": "Não é Embrapii",
+        "nome_do_projeto": "MEC: SETEC",
+        "nickname": "MEC",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Marcelo Ferreira Teté",
+                "email": "marcelo.ferreira.tete@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "78.189",
+                "cod_centro_custo": "",
+                "tipo_financiamento": null,
+                "conta": "20.897-3"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.062342/2024-71",
+        "codigo_srinfo": "PEIA-2412.0108",
+        "nome_do_projeto": "Famile: Assistente inteligente com interface de linguagem natural para criação e recomendação de perfis em plataforma de matches",
+        "nickname": "",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Telma Woerle de Lima Soares",
+                "email": "telma.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.29",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22.962-8"
+            },
+            {
+                "centro_custo": "88.292",
+                "cod_centro_custo": "25345",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22.964-4"
+            },
+            {
+                "centro_custo": "88.291",
+                "cod_centro_custo": "25344",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22.963-6"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.062608/2023-02",
+        "codigo_srinfo": "Não é Embrapii",
+        "nome_do_projeto": "MEC: SETEC II",
+        "nickname": "MEC",
+        "gestor_funape": "Erasmo",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Marcelo Ferreira Teté",
+                "email": "marcelo.ferreira.tete@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "78.23",
+                "cod_centro_custo": "",
+                "tipo_financiamento": null,
+                "conta": "22103-1"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.064211/2024-28",
+        "codigo_srinfo": "PEIA-2501.0107",
+        "nome_do_projeto": "XGO: Previsão Inteligente da Demanda e Escalonamento de Recursos de Rede Em Provedores Modernos de Serviços de Internet",
+        "nickname": "XGO",
+        "gestor_funape": "Ana Cláudia",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Telma Woerle de Lima Soares",
+                "email": "telma.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.293",
+                "cod_centro_custo": "24974",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "23.007-3"
+            },
+            {
+                "centro_custo": "88.295",
+                "cod_centro_custo": "24977",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "23.010-3"
+            },
+            {
+                "centro_custo": "88.294",
+                "cod_centro_custo": "24976",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "23.009-X"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.065173/2023-40",
+        "codigo_srinfo": "PEIA-2311.0064",
+        "nome_do_projeto": "CEMIG: EnergyGPT: modelo de linguagem natural de grande porte para aplicações no setor elétrico",
+        "nickname": "CEMIG",
+        "gestor_funape": "Fernanda",
+        "data_inicio_contrato": "2023-11-20 00:00:00",
+        "data_termino_contrato": "2027-03-19 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Arlindo Rodrigues Galvão Filho",
+                "email": "arlindo.galvao@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.174",
+                "cod_centro_custo": "25279",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22092-2"
+            },
+            {
+                "centro_custo": "88.175",
+                "cod_centro_custo": "25281",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22093-0"
+            },
+            {
+                "centro_custo": "88175.001",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "SUB CC",
+                "conta": "22.647-5"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.065206/2023-51",
+        "codigo_srinfo": "PEIA-2311.0067",
+        "nome_do_projeto": "SEG AUTOMOTIVE: Manutenção inteligente e otimização da produção de peças em injetoras de alumínio",
+        "nickname": "SEG AUTOMOTIVE",
+        "gestor_funape": "Heitor",
+        "data_inicio_contrato": "2023-11-22 00:00:00",
+        "data_termino_contrato": "2025-11-22 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Iwens Gervásio Sene Júnior",
+                "email": "iwens.sene@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.161",
+                "cod_centro_custo": "25430",
+                "tipo_financiamento": "ROTA 2030",
+                "conta": "22067-1"
+            },
+            {
+                "centro_custo": "88.163",
+                "cod_centro_custo": "25432",
+                "tipo_financiamento": "EMPRESA GRANDE",
+                "conta": "22069-8"
+            },
+            {
+                "centro_custo": "88.164",
+                "cod_centro_custo": "25433",
+                "tipo_financiamento": "EMPRESA PEQ.",
+                "conta": "22070-1"
+            },
+            {
+                "centro_custo": "88.162",
+                "cod_centro_custo": "25431",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22068-X"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.065442/2024-59",
+        "codigo_srinfo": "PEIA-2412.0106",
+        "nome_do_projeto": "SYNKAR VI: Plataforma para captura de dados de Conectividade e análise de Qualidade para Robôs Autônomos em Contexto Urbano Brasileiro",
+        "nickname": "SYNKAR VI",
+        "gestor_funape": "Heitor",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Gustavo Teodoro Laureano",
+                "email": "gustavo.laureano@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.288",
+                "cod_centro_custo": "25244",
+                "tipo_financiamento": "ROTA2030",
+                "conta": "22.967-9"
+            },
+            {
+                "centro_custo": "88.289",
+                "cod_centro_custo": "25245",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22.968-7"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.066970/2023-44",
+        "codigo_srinfo": "Não é Embrapii",
+        "nome_do_projeto": "TCE: GO - BASE DE DADOS",
+        "nickname": "TCE",
+        "gestor_funape": "Gabriela",
+        "data_inicio_contrato": null,
+        "data_termino_contrato": null,
+        "coordenadores": [
+            {
+                "nome": "Sávio Salvarino Teles de Oliveira",
+                "email": "savio.oliveira@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "32.106",
+                "cod_centro_custo": "24834",
+                "tipo_financiamento": null,
+                "conta": "22.364-6"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.067465/2023-17",
+        "codigo_srinfo": "PEIA-2311.0065",
+        "nome_do_projeto": "LUME ROBOTICS: Mapeamento Semântico com LIDAR para Veículos Autônomos",
+        "nickname": "LUME ROBOTICS",
+        "gestor_funape": "Luciene",
+        "data_inicio_contrato": "2023-11-29 00:00:00",
+        "data_termino_contrato": "2025-08-28 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Lucas Araújo Pereira",
+                "email": "lucas.pereira@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.017",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "ROTA 2030",
+                "conta": "22.087-6"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.067465/2023-17",
+        "codigo_srinfo": "PEIA-2311.0065",
+        "nome_do_projeto": "LUME ROBOTICS: Mapeamento Semântico com LIDAR para Veículos Autônomos",
+        "nickname": "LUME ROBOTICS",
+        "gestor_funape": "Luciene",
+        "data_inicio_contrato": "2023-11-29 00:00:00",
+        "data_termino_contrato": "2025-08-28 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Lucas Araújo Pereira",
+                "email": "lucas.pereira@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.17",
+                "cod_centro_custo": "",
+                "tipo_financiamento": "ROTA 2030",
+                "conta": "22.087-6"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.067768/2023-30",
+        "codigo_srinfo": "PEIA-2312.0066",
+        "nome_do_projeto": "GARAGEM 4D: Segmentação e Alinhamento de Imagens de Veículos",
+        "nickname": "GARAGEM 4D",
+        "gestor_funape": "Juliana Terra",
+        "data_inicio_contrato": "2023-12-01 00:00:00",
+        "data_termino_contrato": "2025-09-30 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Gustavo Teodoro Laureano",
+                "email": "gustavo.laureano@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.171",
+                "cod_centro_custo": "24585",
+                "tipo_financiamento": "ROTA 2030",
+                "conta": "22.088-4"
+            },
+            {
+                "centro_custo": "88.173",
+                "cod_centro_custo": "24588",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22.090-6"
+            },
+            {
+                "centro_custo": "88.172",
+                "cod_centro_custo": "24586",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22.089-2"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.071296/2023-10",
+        "codigo_srinfo": "PEIA-2311.0062",
+        "nome_do_projeto": "B2ML: Inteligência Artificial Aplicada a Construção de Ambientes Imersivos para o Varejo",
+        "nickname": "B2ML",
+        "gestor_funape": "Fernanda",
+        "data_inicio_contrato": "2023-11-16 00:00:00",
+        "data_termino_contrato": "2026-01-25 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.167",
+                "cod_centro_custo": "25263",
+                "tipo_financiamento": "EMBRAPII",
+                "conta": "22073-6"
+            },
+            {
+                "centro_custo": "88.169",
+                "cod_centro_custo": "25264",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22075-2"
+            },
+            {
+                "centro_custo": "88.168",
+                "cod_centro_custo": "25266",
+                "tipo_financiamento": "SEBRAE",
+                "conta": "22074-4"
+            }
+        ]
+    },
+    {
+        "processo_sei": "23070.071759/2023-43",
+        "codigo_srinfo": "PEIA-2401.0069",
+        "nome_do_projeto": "ATTO INTELLIGENCE: Assistente inteligente com interface de linguagem natural para recomendação de ações na produção agrícola",
+        "nickname": "ATTO INTELLIGENCE",
+        "gestor_funape": "Juliana Terra",
+        "data_inicio_contrato": "2024-01-20 00:00:00",
+        "data_termino_contrato": "2026-02-23 00:00:00",
+        "coordenadores": [
+            {
+                "nome": "Anderson da Silva Soares",
+                "email": "anderson.soares@ceia.ufg.br"
+            }
+        ],
+        "centros_custos": [
+            {
+                "centro_custo": "88.183",
+                "cod_centro_custo": "22781",
+                "tipo_financiamento": "BNDES",
+                "conta": "22248-8"
+            },
+            {
+                "centro_custo": "88.184",
+                "cod_centro_custo": "22782",
+                "tipo_financiamento": "EMPRESA",
+                "conta": "22249-6"
+            }
+        ]
+    }
+]

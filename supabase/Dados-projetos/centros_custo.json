@@ -1,0 +1,1322 @@
+[
+    {
+      "result": true,
+      "dados": [
+        {
+          "centro_custo": "32.087.001",
+          "cod_centro_custo": "25161",
+          "titulo_projeto": "CEIA - Aditivo 2: Projetos de Inovação e Difusão em Inteligência Artificial",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "32.105",
+          "cod_centro_custo": "24803",
+          "titulo_projeto": "CLASSIFICAÇÃO DE MANIFESTAÇÕES PATOLÓGICAS NAS RODOVIAS DO ESTADO DE GOIÁS UTILIZANDO INTELIGÊNCIA ARTIFICIAL",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "32.106",
+          "cod_centro_custo": "24834",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA NOS DOCUMENTOS INDEXADOS NA BASE DE DADOS DOCUMENTAL DO TRIBUNAL DE CONTAS DO ESTADO DE GOIÁS",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "32.114",
+          "cod_centro_custo": "24787",
+          "titulo_projeto": "CENTRO DE COMPETÊNCIA EMBRAPII EM TECNOLOGIAS IMERSIVAS APLICADAS A MUNDOS VIRTUAIS",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "32.117",
+          "cod_centro_custo": "25359",
+          "titulo_projeto": "APRIMORAMENTO DO PROCESSO DE REGISTRO DE MARCAS POR MEIO DE CONSULTAS COM INTELIGÊNCIA ARTIFICIAL - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.108",
+          "cod_centro_custo": "23711",
+          "titulo_projeto": "GERAÇÃO AUTOMÁTICA DE TEXTOS JURÍDICOS UTILIZANDO MODELOS DE GERADORES DE LINGUAGEM NATURAL - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.109",
+          "cod_centro_custo": "23714",
+          "titulo_projeto": "GERAÇÃO AUTOMÁTICA DE TEXTOS JURÍDICOS UTILIZANDO MODELOS DE GERADORES DE LINGUAGEM NATURAL - SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.110",
+          "cod_centro_custo": "23713",
+          "titulo_projeto": "GERAÇÃO AUTOMÁTICA DE TEXTOS JURÍDICOS UTILIZANDO MODELOS DE GERADORES DE LINGUAGEM NATURAL - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.120",
+          "cod_centro_custo": "24873",
+          "titulo_projeto": "PLANEJAMENTO INTELIGENTE DA LINHA DE PRODUÇÃO PARA INDÚSTRIA MOVELEIRA - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.121",
+          "cod_centro_custo": "24870",
+          "titulo_projeto": "PLANEJAMENTO INTELIGENTE DA LINHA DE PRODUÇÃO PARA INDÚSTRIA MOVELEIRA - SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.122",
+          "cod_centro_custo": "24874",
+          "titulo_projeto": "PLANEJAMENTO INTELIGENTE DA LINHA DE PRODUÇÃO PARA INDÚSTRIA MOVELEIRA - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.130",
+          "cod_centro_custo": "24107",
+          "titulo_projeto": "AUTOMAÇÃO DE PROCESSOS EM CENTRAIS DE ATENDIMENTOUTILIZANDO ENGENHARIA DE PROMPTS E INSERÇÃO DE BASES DECONHECIMENTO EM MODELOS DE LINGUAGEM DE GRANDE PORTE - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.131",
+          "cod_centro_custo": "24110",
+          "titulo_projeto": "AUTOMAÇÃO DE PROCESSOS EM CENTRAIS DE ATENDIMENTOUTILIZANDO ENGENHARIA DE PROMPTS E INSERÇÃO DE BASES DECONHECIMENTO EM MODELOS DE LINGUAGEM DE GRANDE PORTE - SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.132",
+          "cod_centro_custo": "24108",
+          "titulo_projeto": "AUTOMAÇÃO DE PROCESSOS EM CENTRAIS DE ATENDIMENTOUTILIZANDO ENGENHARIA DE PROMPTS E INSERÇÃO DE BASES DECONHECIMENTO EM MODELOS DE LINGUAGEM DE GRANDE PORTE - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.133",
+          "cod_centro_custo": "24111",
+          "titulo_projeto": "AUTOMAÇÃO DE PROCESSOS EM CENTRAIS DE ATENDIMENTOUTILIZANDO ENGENHARIA DE PROMPTS E INSERÇÃO DE BASES DECONHECIMENTO EM MODELOS DE LINGUAGEM DE GRANDE PORTE - EMPRESA PEQ",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.149",
+          "cod_centro_custo": "24202",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL PARA APRIMORAMENTO DO PROCESSO DE CONTROLE DE INSETOS -  EMPRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.150",
+          "cod_centro_custo": "24204",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL PARA APRIMORAMENTO DO PROCESSO DE CONTROLE DE INSETOS - SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.151",
+          "cod_centro_custo": "24203",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL PARA APRIMORAMENTO DO PROCESSO DE CONTROLE DE INSETOS - EMBRAPII EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.159",
+          "cod_centro_custo": "25354",
+          "titulo_projeto": "SOFTWARE INTELIGENTE PARA MINERAÇÃO E GESTÃO DE INFORMAÇÕES EM COMPRAS PÚBLICAS DE PRODUTOS INDUSTRIAIS DE TECNOLOGIAS DA INFORMAÇÃO - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.160",
+          "cod_centro_custo": "25355",
+          "titulo_projeto": "SOFTWARE INTELIGENTE PARA MINERAÇÃO E GESTÃO DE INFORMAÇÕES EM COMPRAS PÚBLICAS DE PRODUTOS INDUSTRIAIS DE TECNOLOGIAS DA INFORMAÇÃO - EMBRAPII EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.161",
+          "cod_centro_custo": "25430",
+          "titulo_projeto": "MANUTENÇÃO INTELIGENTE E OTIMIZAÇÃO DA PRODUÇÃO DE PEÇAS EM INJETORAS DE ALUMÍNIO - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.162",
+          "cod_centro_custo": "25431",
+          "titulo_projeto": "MANUTENÇÃO INTELIGENTE E OTIMIZAÇÃO DA PRODUÇÃO DE PEÇAS EM INJETORAS DE ALUMÍNIO - SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.163",
+          "cod_centro_custo": "25432",
+          "titulo_projeto": "MANUTENÇÃO INTELIGENTE E OTIMIZAÇÃO DA PRODUÇÃO DE PEÇAS EM INJETORAS DE ALUMÍNIO-EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.164",
+          "cod_centro_custo": "25433",
+          "titulo_projeto": "MANUTENÇÃO INTELIGENTE E OTIMIZAÇÃO DA PRODUÇÃO DE PEÇAS EM INJETORAS DE ALUMÍNIO - EMPRESA PEQ",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.165",
+          "cod_centro_custo": "25089",
+          "titulo_projeto": "AGRUPAMENTO E CLASSIFICAÇÃO AUTOMATIZADA DE ITENS DESCRITIVOS EM LICITAÇÕES DE COMPRAS DE PRODUTOS PELA ADMINISTRAÇÃO PÚBLICA-EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.166",
+          "cod_centro_custo": "25090",
+          "titulo_projeto": "AGRUPAMENTO E CLASSIFICAÇÃO AUTOMATIZADA DE ITENS DESCRITIVOS EM LICITAÇÕES DE COMPRAS DE PRODUTOS PELA ADMINISTRAÇÃO PÚBLICA-EMBRAPII EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.167",
+          "cod_centro_custo": "25263",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA A CONSTRUÇÃO DE AMBIENTES IMERSIVOS PARA OVAREJO  - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.168",
+          "cod_centro_custo": "25266",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA A CONSTRUÇÃO DE AMBIENTES IMERSIVOS PARA O VAREJO - SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.169",
+          "cod_centro_custo": "25264",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA A CONSTRUÇÃO DE AMBIENTES IMERSIVOS PARA O VAREJO - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.170",
+          "cod_centro_custo": "24504",
+          "titulo_projeto": "MAPEAMENTO SEMÂNTICO COM LIDAR PARA VEÍCULOS AUTÔNOMOS-EMBRAPiI",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.171",
+          "cod_centro_custo": "24585",
+          "titulo_projeto": "SEGMENTAÇÃO E ALINHAMENTO DE IMAGENS DE VEÍCULOS - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.172",
+          "cod_centro_custo": "24586",
+          "titulo_projeto": "SEGMENTAÇÃO E ALINHAMENTO DE IMAGENS DE VEÍCULOS - SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.173",
+          "cod_centro_custo": "24588",
+          "titulo_projeto": "SEGMENTAÇÃO E ALINHAMENTO DE IMAGENS DE VEÍCULOS - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.174",
+          "cod_centro_custo": "25279",
+          "titulo_projeto": "ENERGYGPT: MODELO DE LINGUAGEM NATURAL DE GRANDE PORTE PARA APLICAÇÕES NO SETOR ELÉTRICO - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.175",
+          "cod_centro_custo": "25281",
+          "titulo_projeto": "ENERGYGPT: MODELO DE LINGUAGEM NATURAL DE GRANDE PORTE PARA APLICAÇÕES NO SETOR ELÉTRICO- Embrapii empresa",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.177",
+          "cod_centro_custo": "24862",
+          "titulo_projeto": "VALIDAÇÃO DE UM SISTEMA DE MINERAÇÃO INTELIGENTE DE ENTIDADES NOMEADAS EM DOCUMENTOS- EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.178",
+          "cod_centro_custo": "24866",
+          "titulo_projeto": "VALIDAÇÃO DE UM SISTEMA DE MINERAÇÃO INTELIGENTE DE ENTIDADES NOMEADAS EM DOCUMENTOS-SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.179",
+          "cod_centro_custo": "24867",
+          "titulo_projeto": "VALIDAÇÃO DE UM SISTEMA DE MINERAÇÃO INTELIGENTE DE ENTIDADES NOMEADAS EM DOCUMENTO- EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.180",
+          "cod_centro_custo": "25458",
+          "titulo_projeto": "ENGAJAMENTO NOS CUIDADOS DE SAÚDE POR MEIO DE GAMIFICAÇÃO E INTELIGÊNCIA  ARTIFICIAL - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.181",
+          "cod_centro_custo": "25460",
+          "titulo_projeto": "ENGAJAMENTO NOS CUIDADOS DE SAÚDE POR MEIO DE GAMIFICAÇÃO E INTELIGÊNCIA ARTIFICIAL - SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.182",
+          "cod_centro_custo": "25459",
+          "titulo_projeto": "ENGAJAMENTO NOS CUIDADOS DE SAÚDE POR MEIO DE GAMIFICAÇÃO E INTELIGÊNCIA ARTIFICIAL - EMBRAPII EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.183",
+          "cod_centro_custo": "22781",
+          "titulo_projeto": "ASSISTENTE VIRTUAL PARA RECOMENDAÇÃO DE AÇÕES NA PRODUÇÃO AGRÍCOLA-EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.184",
+          "cod_centro_custo": "22782",
+          "titulo_projeto": "ASSISTENTE VIRTUAL PARA RECOMENDAÇÃO DE AÇÕES NA PRODUÇÃO AGRÍCOLA-EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.185",
+          "cod_centro_custo": "23447",
+          "titulo_projeto": "MODELOS DE LINGUAGEM PARA ASSISTÊNCIA JURÍDICA-EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.186",
+          "cod_centro_custo": "23449",
+          "titulo_projeto": "MODELOS DE LINGUAGEM PARA ASSISTÊNCIA JURÍDICA-SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.187",
+          "cod_centro_custo": "23450",
+          "titulo_projeto": "MODELOS DE LINGUAGEM PARA ASSISTÊNCIA JURÍDICA-EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.189",
+          "cod_centro_custo": "25364",
+          "titulo_projeto": "ALGORITMOS INTELIGENTES PARA COLETA E ANÁLISE ATIVA DE DADOS PARA CUIDADOS EM AMBIENTES CORPORATIVOS",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.190",
+          "cod_centro_custo": "25366",
+          "titulo_projeto": "ALGORITMOS INTELIGENTES PARA COLETA E ANÁLISE ATIVA DE DADOS PARA CUIDADOS EM AMBIENTES CORPORATIVOS - SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.191",
+          "cod_centro_custo": "25365",
+          "titulo_projeto": "ALGORITMOS INTELIGENTES PARA COLETA E ANÁLISE ATIVA DE DADOS PARA CUIDADOS EM AMBIENTES CORPORATIVOS - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.192",
+          "cod_centro_custo": "25128",
+          "titulo_projeto": "UMA ABORDAGEM INTELIGENTE NA GESTÃO DE RISCOS PARA OTIMIZAÇÃO DE RECURSOS EM EMPRESAS DO SETOR DA SAÚDE - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.193",
+          "cod_centro_custo": "25130",
+          "titulo_projeto": "UMA ABORDAGEM INTELIGENTE NA GESTÃO DE RISCOS PARA OTIMIZAÇÃO DE RECURSOS EM EMPRESAS DO SETOR DA SAÚDE - SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.194",
+          "cod_centro_custo": "25129",
+          "titulo_projeto": "UMA ABORDAGEM INTELIGENTE NA GESTÃO DE RISCOS PARA OTIMIZAÇÃO DE RECURSOS EM EMPRESAS DO SETOR DA SAÚDE - EMBRAPII EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.195",
+          "cod_centro_custo": "25115",
+          "titulo_projeto": "FERRAMENTA PRESCRITIVA DE APOIO À TOMADA DE DECISÃO PARA OTIMIZAÇÃO OPERACIONAL DE PROCESSOS INDUSTRIAIS - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.196",
+          "cod_centro_custo": "25118",
+          "titulo_projeto": "FERRAMENTA PRESCRITIVA DE APOIO À TOMADA DE DECISÃO PARA OTIMIZAÇÃO OPERACIONAL DE PROCESSOS INDUSTRIAIS - SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.197",
+          "cod_centro_custo": "25116",
+          "titulo_projeto": "FERRAMENTA PRESCRITIVA DE APOIO À TOMADA DE DECISÃO PARA OTIMIZAÇÃO OPERACIONAL DE PROCESSOS INDUSTRIAIS - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.198",
+          "cod_centro_custo": "25158",
+          "titulo_projeto": "ALGORITMOS INTELIGENTES PARA SINTETIZAÇÃO E CONVERSÃO DE VOZES - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.199",
+          "cod_centro_custo": "25159",
+          "titulo_projeto": "ALGORITMOS INTELIGENTES PARA SINTETIZAÇÃO E CONVERSÃO DE VOZES - SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.200",
+          "cod_centro_custo": "25160",
+          "titulo_projeto": "ALGORITMOS INTELIGENTES PARA SINTETIZAÇÃO E CONVERSÃO DE VOZES - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.201",
+          "cod_centro_custo": "25240",
+          "titulo_projeto": "ALGORITMOS INTELIGENTES PARA APOIO AO MONITORAMENTO REMOTO DE SAÚDE MENTAL_EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.202",
+          "cod_centro_custo": "25242",
+          "titulo_projeto": "ALGORITMOS INTELIGENTES PARA APOIO AO MONITORAMENTO REMOTO DE SAÚDE MENTAL_SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.203",
+          "cod_centro_custo": "25241",
+          "titulo_projeto": "ALGORITMOS INTELIGENTES PARA APOIO AO MONITORAMENTO REMOTO DE SAÚDE MENTAL_EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.207",
+          "cod_centro_custo": "25124",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA NA CRIAÇÃO AUTOMÁTICA DE SITES PARA PEQUENAS E MÉDIAS EMPRESAS - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.208",
+          "cod_centro_custo": "25125",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA NA CRIAÇÃO AUTOMÁTICA DE SITES PARA PEQUENAS E MÉDIAS EMPRESAS - SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.209",
+          "cod_centro_custo": "25126",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA NA CRIAÇÃO AUTOMÁTICA DE SITES PARA PEQUENAS E MÉDIAS EMPRESAS - EMBRAPII EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.210",
+          "cod_centro_custo": "24767",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL NA IDENTIFICAÇÃO DE MARCAS EM BOVINOS - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.211",
+          "cod_centro_custo": "24769",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL NA IDENTIFICAÇÃO DE MARCAS EM BOVINOS - SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.212",
+          "cod_centro_custo": "24768",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL NA IDENTIFICAÇÃO DE MARCAS EM BOVINOS - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.213",
+          "cod_centro_custo": "25153",
+          "titulo_projeto": "ALGORITMOS INTELIGENTES PARA MANUTENÇÃO PREVENTIVA DE VEÍCULOS DE TRANSPORTE PÚBLICO -  EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.214",
+          "cod_centro_custo": "25154",
+          "titulo_projeto": "ALGORITMOS INTELIGENTES PARA MANUTENÇÃO PREVENTIVA DE VEÍCULOS DE TRANSPORTE PÚBLICO - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.218",
+          "cod_centro_custo": "24751",
+          "titulo_projeto": "SMARTVISION: GERENCIAMENTO E MINIMIZAÇÃO DE RISCOS DE SEGURANÇA DE TRABALHO NA EXECUÇÃO DE SERVIÇOS ATRAVÉS DE INTELIGÊNCIA ARTIFICIAL - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.219",
+          "cod_centro_custo": "24748",
+          "titulo_projeto": "SMARTVISION: GERENCIAMENTO E MINIMIZAÇÃO DE RISCOS DE SEGURANÇA DE TRABALHO NA EXECUÇÃO DE SERVIÇOS ATRAVÉS DE INTELIGÊNCIA ARTIFICIAL - EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.220",
+          "cod_centro_custo": "24750",
+          "titulo_projeto": "SMARTVISION: GERENCIAMENTO E MINIMIZAÇÃO DE RISCOS DE SEGURANÇA DE TRABALHO NA EXECUÇÃO DE SERVIÇOS ATRAVÉS DE INTELIGÊNCIA ARTIFICIAL - SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.221",
+          "cod_centro_custo": "25421",
+          "titulo_projeto": "PREVISÃO DE RATEIO DE CRÉDITOS PARA O CONSUMO DE ENERGIA SOLAR COM O USO DE INTELIGÊNCIA ARTIFICIAL_EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.222",
+          "cod_centro_custo": "25419",
+          "titulo_projeto": "PREVISÃO DE RATEIO DE CRÉDITOS PARA O CONSUMO DE ENERGIA SOLAR COM O USO DE INTELIGÊNCIA ARTIFICIAL_EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.223",
+          "cod_centro_custo": "25420",
+          "titulo_projeto": "PREVISÃO DE RATEIO DE CRÉDITOS PARA O CONSUMO DE ENERGIA SOLAR COM O USO DE INTELIGÊNCIA ARTIFICIAL_SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.224",
+          "cod_centro_custo": "25132",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA NA CRIAÇÃO DE ASSISTENTE VIRTUAL PARA AUTOMAÇÃO DE TAREFAS EM PRONTUÁRIOS INTELIGÊNCIA ELETRÔNICOS - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.225",
+          "cod_centro_custo": "25127",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA NA CRIAÇÃO DE ASSISTENTE VIRTUAL PARA AUTOMAÇÃO DE TAREFAS EM PRONTUÁRIOS INTELIGÊNCIA ELETRÔNICOS - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.226",
+          "cod_centro_custo": "24945",
+          "titulo_projeto": "FERRAMENTA PARA RASTREABILIDADE DE PRODUTOS VEGETAIS COM USO DE BLOCKCHAIN - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.227",
+          "cod_centro_custo": "24944",
+          "titulo_projeto": "FERRAMENTA PARA RASTREABILIDADE DE PRODUTOS VEGETAIS COM USO DE BLOCKCHAIN - EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.228",
+          "cod_centro_custo": "24946",
+          "titulo_projeto": "FERRAMENTA PARA RASTREABILIDADE DE PRODUTOS VEGETAIS COM USO DE BLOCKCHAIN - SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.229",
+          "cod_centro_custo": "25448",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL NA GERAÇÃO DE MÉTODOS QUANTITATIVOS PARA PREVISÃO DE INDICADORES ECONÔMICOS - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.230",
+          "cod_centro_custo": "25447",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL NA GERAÇÃO DE MÉTODOS QUANTITATIVOS PARA PREVISÃO DE INDICADORES ECONÔMICOS - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.231",
+          "cod_centro_custo": "25449",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL NA GERAÇÃO DE MÉTODOS QUANTITATIVOS PARA PREVISÃO DE INDICADORES ECONÔMICOS - SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.232",
+          "cod_centro_custo": "25358",
+          "titulo_projeto": "CHATBOTS PARA TUTORIA PEDAGÓGICA CENTRADA EM ROBÓTICA COM ALUNOS DE ESCOLAS_EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.233",
+          "cod_centro_custo": "24951",
+          "titulo_projeto": "DAISSE: VIGILÂNCIA E ANÁLISE DE DADOS AVANÇADA COM MODELOSMASSIVOS DE LINGUAGEM PARA EMPODERAMENTO DE LÍDERES_EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.234",
+          "cod_centro_custo": "24950",
+          "titulo_projeto": "DAISSE: VIGILÂNCIA E ANÁLISE DE DADOS AVANÇADA COM MODELOSMASSIVOS DE LINGUAGEM PARA EMPODERAMENTO DE LÍDERES_SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.235",
+          "cod_centro_custo": "24952",
+          "titulo_projeto": "DAISSE: VIGILÂNCIA E ANÁLISE DE DADOS AVANÇADA COM MODELOSMASSIVOS DE LINGUAGEM PARA EMPODERAMENTO DE LÍDERES_EMBRAPII EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.236",
+          "cod_centro_custo": "25357",
+          "titulo_projeto": "CHATBOTS PARA TUTORIA PEDAGÓGICA CENTRADA EM ROBÓTICA COM ALUNOS DE ESCOLAS_EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.237",
+          "cod_centro_custo": "25356",
+          "titulo_projeto": "CHATBOTS PARA TUTORIA PEDAGÓGICA CENTRADA EM ROBÓTICA COM ALUNOS DE ESCOLAS_SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.238",
+          "cod_centro_custo": "25157",
+          "titulo_projeto": "GERAÇÃO DE TUTORES VIRTUAIS INTELIGENTES ATRAVÉS DE AGENTES DE LINGUAGEM NATURAL - EMPRESA FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.239",
+          "cod_centro_custo": "25155",
+          "titulo_projeto": "GERAÇÃO DE TUTORES VIRTUAIS INTELIGENTES ATRAVÉS DE AGENTES DE LINGUAGEM NATURAL - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.240",
+          "cod_centro_custo": "25156",
+          "titulo_projeto": "GERAÇÃO DE TUTORES VIRTUAIS INTELIGENTES ATRAVÉS DE AGENTES DE LINGUAGEM NATURAL - SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.241",
+          "cod_centro_custo": "22093",
+          "titulo_projeto": "DIAGNÓSTICO DE FALHA DE EQUIPAMENTOS E TOMADA DE DECISÃO UTILIZANDO INTELIGÊNCIA ARTIFICIAL E SENSORIAMENTO - EMPRESA FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.242",
+          "cod_centro_custo": "22090",
+          "titulo_projeto": "DIAGNÓSTICO DE FALHA DE EQUIPAMENTOS E TOMADA DE DECISÃO UTILIZANDO INTELIGÊNCIA ARTIFICIAL E SENSORIAMENTO - EMPRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.243",
+          "cod_centro_custo": "22092",
+          "titulo_projeto": "DIAGNÓSTICO DE FALHA DE EQUIPAMENTOS E TOMADA DE DECISÃO UTILIZANDO INTELIGÊNCIA ARTIFICIAL E SENSORIAMENTO - SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.244",
+          "cod_centro_custo": "25145",
+          "titulo_projeto": "UMA ABORDAGEM DE APRENDIZADO DE MÁQUINA PARA PREVISÃO DE SUCESSO DE PROCESSOS JURÍDICOS - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.245",
+          "cod_centro_custo": "25144",
+          "titulo_projeto": "UMA ABORDAGEM DE APRENDIZADO DE MÁQUINA PARA PREVISÃO DE SUCESSO DE PROCESSOS JURÍDICOS - SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.246",
+          "cod_centro_custo": "25146",
+          "titulo_projeto": "UMA ABORDAGEM DE APRENDIZADO DE MÁQUINA PARA PREVISÃO DE SUCESSO DE PROCESSOS JURÍDICOS",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.247",
+          "cod_centro_custo": "24723",
+          "titulo_projeto": "APLICAÇÃO DE APRENDIZADO ATIVO PARA CONSTRUÇÃO EM LARGA ESCALA DE MODELOS DE VISÃO COMPUTACIONAL PARA INSPEÇÃO DE ATIVOS EM REDES DE DISTRIBUIÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA-EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.248",
+          "cod_centro_custo": "24724",
+          "titulo_projeto": "PLICAÇÃO DE APRENDIZADO ATIVO PARA CONSTRUÇÃO EM LARGA ESCALA DE MODELOS DE VISÃO COMPUTACIONAL PARA INSPEÇÃO DE ATIVOS EM REDES DE DISTRIBUIÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA_sebrae",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.249",
+          "cod_centro_custo": "24725",
+          "titulo_projeto": "APLICAÇÃO DE APRENDIZADO ATIVO PARA CONSTRUÇÃOEM LARGA ESCALA DE MODELOS DE VISÃOCOMPUTACIONAL PARA INSPEÇÃO DE ATIVOS EM REDES DEDISTRIBUIÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA_EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.251",
+          "cod_centro_custo": "24929",
+          "titulo_projeto": "USO DE TECNOLOGIAS PARA CRIAÇÃO DE UM ROBÔ CONSTRUTOR DE SOFTWARE AS A MEDICAL DEVICE - SAMD_EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.252",
+          "cod_centro_custo": "24927",
+          "titulo_projeto": "USO DE TECNOLOGIAS PARA CRIAÇÃO DE UM ROBÔ CONSTRUTOR DE SOFTWARE AS A MEDICAL DEVICE - SAMD_SEBRAEI FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.253",
+          "cod_centro_custo": "24930",
+          "titulo_projeto": "USO DE TECNOLOGIAS PARA CRIAÇÃO DE UM ROBÔ CONSTRUTOR DE SOFTWARE AS A MEDICAL DEVICE - SAMD_EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.254",
+          "cod_centro_custo": "25454",
+          "titulo_projeto": "TÉCNICAS AVANÇADAS DE PROCESSAMENTO DE LINGUAGEM NATURAL E DE TEORIA DOS GRAFOS PARA MONITORAMENTO DO CICLO DE PRODUTO AUTOMOTIVO EM DADOS NÃO ESTRUTURADOS - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.255",
+          "cod_centro_custo": "25456",
+          "titulo_projeto": "TÉCNICAS AVANÇADAS DE PROCESSAMENTO DE LINGUAGEM NATURAL E DE TEORIA DOS GRAFOS PARA MONITORAMENTO DO CICLO DE PRODUTO AUTOMOTIVO EM DADOS NÃO ESTRUTURADOS - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.256",
+          "cod_centro_custo": "25151",
+          "titulo_projeto": "USO DE INTELIGÊNCIA ARTIFICIAL PARA OTIMIZAR A ALOCAÇÃO DE RECURSOS NO TRANSPORTE E DISTRIBUIÇÃO DE COMBUSTÍVEIS - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.257",
+          "cod_centro_custo": "25152",
+          "titulo_projeto": "USO DE INTELIGÊNCIA ARTIFICIAL PARA OTIMIZAR A ALOCAÇÃO DE RECURSOS NO TRANSPORTE E DISTRIBUIÇÃO DE COMBUSTÍVEIS",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.258",
+          "cod_centro_custo": "25422",
+          "titulo_projeto": "Processamento de Linguagem Natural para Análise e Otimização de Campanhas de Marketing Digital em Múltiplas Plataformas - EMPRAPPI FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.259",
+          "cod_centro_custo": "25425",
+          "titulo_projeto": "Processamento de Linguagem Natural para Análise e Otimização de Campanhas de Marketing Digital em Múltiplas Plataformas - SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.260",
+          "cod_centro_custo": "25424",
+          "titulo_projeto": "Processamento de Linguagem Natural para Análise e Otimização de Campanhas de Marketing Digital em Múltiplas Plataformas - EMPRAPII EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.261",
+          "cod_centro_custo": "25257",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA À GAMIFICAÇÃO PARA O APRIMORAMENTO DA PRÁTICA DE SONHOS LÚCIDOS - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.262",
+          "cod_centro_custo": "25258",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA À GAMIFICAÇÃO PARA O APRIMORAMENTO DA PRÁTICA DE SONHOS LÚCIDOS - SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.263",
+          "cod_centro_custo": "25259",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA À GAMIFICAÇÃO PARA O APRIMORAMENTO DA PRÁTICA DE SONHOS LÚCIDOS - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.264",
+          "cod_centro_custo": "25369",
+          "titulo_projeto": "ASSISTENTE INTELIGENTE COM INTERFACE DE LINGUAGEM NATURAL PARA APOIO À COORDENAÇÃO DE PROJETOS BIM DE CONSTRUÇÃO - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.265",
+          "cod_centro_custo": "25370",
+          "titulo_projeto": "ASSISTENTE INTELIGENTE COM INTERFACE DE LINGUAGEM NATURAL PARA APOIO À COORDENAÇÃO DE PROJETOS BIM DE CONSTRUÇÃO - SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.266",
+          "cod_centro_custo": "25371",
+          "titulo_projeto": "ASSISTENTE INTELIGENTE COM INTERFACE DE LINGUAGEM NATURAL PARA APOIO À COORDENAÇÃO DE PROJETOS BIM DE CONSTRUÇÃO - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.267",
+          "cod_centro_custo": "25163",
+          "titulo_projeto": "AIDBOT - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.268",
+          "cod_centro_custo": "25165",
+          "titulo_projeto": "AIDBOT - SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.269",
+          "cod_centro_custo": "25166",
+          "titulo_projeto": "AIDBOT - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.270",
+          "cod_centro_custo": "25480",
+          "titulo_projeto": "SEGMENTAÇÃO DE INSTÂNCIA DE PARTES DE VEÍCULOS CONSIDERANDO MÚLTIPLOS TIPOS DE CATEGORIAS - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.272",
+          "cod_centro_custo": "25481",
+          "titulo_projeto": "SEGMENTAÇÃO DE INSTÂNCIA DE PARTES DE VEÍCULOS CONSIDERANDO MÚLTIPLOS TIPOS DE CATEGORIAS - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.273",
+          "cod_centro_custo": "25348",
+          "titulo_projeto": "CONECTIVIDADE HÍBRIDA DE VEÍCULOS EM CIDADES INTELIGENTES NO CONTEXTO BRASILEIRO_EMBRAPPI FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.274",
+          "cod_centro_custo": "25350",
+          "titulo_projeto": "CONECTIVIDADE HÍBRIDA DE VEÍCULOS EM CIDADES INTELIGENTES NO CONTEXTO BRASILEIRO_SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.275",
+          "cod_centro_custo": "25349",
+          "titulo_projeto": "CONECTIVIDADE HÍBRIDA DE VEÍCULOS EM CIDADES INTELIGENTES NO CONTEXTO BRASILEIRO_EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.276",
+          "cod_centro_custo": "25462",
+          "titulo_projeto": "Assistente inteligente para atendimento e diagnóstico veicular em oficinas mecânicas automobilísticas_EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.277",
+          "cod_centro_custo": "25463",
+          "titulo_projeto": "Assistente inteligente para atendimento e diagnóstico veicular em oficinas mecânicas automobilísticas_SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.278",
+          "cod_centro_custo": "25461",
+          "titulo_projeto": "Assistente inteligente para atendimento e diagnóstico veicular em oficinas mecânicas automobilísticas_EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.279",
+          "cod_centro_custo": "25372",
+          "titulo_projeto": "TECNOLOGIAS DE INTEGRAÇÃO DE AGENTES CONVERSACIONAIS PARA RESPOSTAS COMPLEXAS,UTILIZANDO APRENDIZADO POR REFORÇO COM FEEDBACK (RLHF)_EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.280",
+          "cod_centro_custo": "25373",
+          "titulo_projeto": "TECNOLOGIAS DE INTEGRAÇÃO DE AGENTES CONVERSACIONAIS PARA RESPOSTAS COMPLEXAS,UTILIZANDO APRENDIZADO POR REFORÇO COM FEEDBACK (RLHF) SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.281",
+          "cod_centro_custo": "25374",
+          "titulo_projeto": "TECNOLOGIAS DE INTEGRAÇÃO DE AGENTES CONVERSACIONAIS PARA RESPOSTAS COMPLEXAS,UTILIZANDO APRENDIZADO POR REFORÇO COM FEEDBACK (RLHF) EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.282",
+          "cod_centro_custo": "25484",
+          "titulo_projeto": "OTIMIZAÇÃO INTELIGENTE DA GESTÃO LOGÍSTICA DE ESTOQUES E FRETES EM CENTROS DE DISTRIBUIÇÃO VAREJISTAS - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.283",
+          "cod_centro_custo": "25486",
+          "titulo_projeto": "OTIMIZAÇÃO INTELIGENTE DA GESTÃO LOGÍSTICA DE ESTOQUES E FRETES EM CENTROS DE DISTRIBUIÇÃO VAREJISTAS - SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.284",
+          "cod_centro_custo": "25487",
+          "titulo_projeto": "OTIMIZAÇÃO INTELIGENTE DA GESTÃO LOGÍSTICA DE ESTOQUES E FRETES EM CENTROS DE DISTRIBUIÇÃO VAREJISTAS - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.285",
+          "cod_centro_custo": "25299",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL PARA GESTÃO E DESENVOLVIMENTO DE HABILIDADES NO AMBIENTE CORPORATIVO_EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.286",
+          "cod_centro_custo": "25300",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL PARA GESTÃO E DESENVOLVIMENTO DE HABILIDADES NO AMBIENTE CORPORATIVO_SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.287",
+          "cod_centro_custo": "25294",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL PARA GESTÃO E DESENVOLVIMENTO DE HABILIDADESNO AMBIENTE CORPORATIVO_EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.288",
+          "cod_centro_custo": "25244",
+          "titulo_projeto": "PLATAFORMA PARA CAPTURA DE DADOS DE CONECTIVIDADE E ANÁLISE DE QUALIDADE PARA ROBÔS AUTÔNOMOS EM CONTEXTO URBANO BRASILEIRO - EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.289",
+          "cod_centro_custo": "25245",
+          "titulo_projeto": "PLATAFORMA PARA CAPTURA DE DADOS DE CONECTIVIDADE E ANÁLISE DE QUALIDADE PARA ROBÔS AUTÔNOMOS EM CONTEXTO URBANO BRASILEIRO - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.290",
+          "cod_centro_custo": "25342",
+          "titulo_projeto": "ASSISTENTE INTELIGENTE COM INTERFACE DE LINGUAGEM NATURAL PARA CRIAÇÃO E RECOMENDAÇÃO DE PERFIS EM PLATAFORMA DE MATCHES_EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.291",
+          "cod_centro_custo": "25344",
+          "titulo_projeto": "ASSISTENTE INTELIGENTE COM INTERFACE DE LINGUAGEM NATURAL PARA CRIAÇÃO E RECOMENDAÇÃO DE PERFIS EM PLATAFORMA DE MATCHES_Sebre filha",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.292",
+          "cod_centro_custo": "25345",
+          "titulo_projeto": "ASSISTENTE INTELIGENTE COM INTERFACE DE LINGUAGEM NATURAL PARA CRIAÇÃO E RECOMENDAÇÃO DE PERFIS EM PLATAFORMA DE MATCHES_EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.293",
+          "cod_centro_custo": "24974",
+          "titulo_projeto": "PREVISÃO INTELIGENTE DA DEMANDA E ESCALONAMENTO DE RECURSOS DE REDE EM PROVEDORES MODERNOS DE SERVIÇOS DE INTERNET - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.294",
+          "cod_centro_custo": "24976",
+          "titulo_projeto": "PREVISÃO INTELIGENTE DA DEMANDA E ESCALONAMENTO DE RECURSOS DE REDE EM PROVEDORES MODERNOS DE SERVIÇOS DE INTERNET - SEBRAE FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.295",
+          "cod_centro_custo": "24977",
+          "titulo_projeto": "PREVISÃO INTELIGENTE DA DEMANDA E ESCALONAMENTO DE RECURSOS DE REDE EM PROVEDORES MODERNOS DE SERVIÇOS DE INTERNET - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.296",
+          "cod_centro_custo": "25109",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA NA DETECÇÃO DE ANOMALIAS EM VÍDEOS NO APOIO À TOMADA DE DECISÃO -  EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.297",
+          "cod_centro_custo": "25110",
+          "titulo_projeto": "INTELIGÊNCIA  ARTIFICIAL APLICADA NA DETECÇÃO DE ANOMALIAS EM VÍDEOS NO APOIO À TOMADA DE DECISÃO - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.298",
+          "cod_centro_custo": "25108",
+          "titulo_projeto": "INTELIGÊNCIA  ARTIFICIAL APLICADA NA DETECÇÃO DE ANOMALIAS EM VÍDEOS NO APOIO À TOMADA DE DECISÃO - SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.299",
+          "cod_centro_custo": "25060",
+          "titulo_projeto": "MAPEAMENTO E APRIMORAMENTO DE CASOS DE TESTE COM INSTRUÇÕES EM LINGUAGEM NATURAL BASEADA EM CASOS DE TESTE BEM-SUCEDIDOS - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.300",
+          "cod_centro_custo": "25285",
+          "titulo_projeto": "MAPEAMENTO E APRIMORAMENTO DE CASOS DE TESTE COM INSTRUÇÕES EM LINGUAGEM NATURAL BASEADA EM CASOS DE TESTE BEM-SUCEDIDOS - SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.301",
+          "cod_centro_custo": "25062",
+          "titulo_projeto": "MAPEAMENTO E APRIMORAMENTO DE CASOS DE TESTE COM INSTRUÇÕES EM LINGUAGEM NATURAL BASEADA EM CASOS DE TESTE BEM-SUCEDIDOS - EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.302",
+          "cod_centro_custo": "25427",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL PARA ANÁLISE MULTITAREFA DE FEEDBACKS DE USUÁRIOS COM USO DE LARGE LANGUAGE MODELS - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.303",
+          "cod_centro_custo": "25428",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL PARA ANÁLISE MULTITAREFA DE FEEDBACKS DE USUÁRIOS COM USO DE LARGE LANGUAGE MODELS - SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.304",
+          "cod_centro_custo": "25426",
+          "titulo_projeto": "INTELIGÊNCIA  ARTIFICIAL PARA ANÁLISE MULTITAREFA DE FEEDBACKS DE USUÁRIOS COM USO DE LARGE LANGUAGE MODELS - EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.305",
+          "cod_centro_custo": "25170",
+          "titulo_projeto": "Plataforma de BI Aprimorada com IA Generativa: Redefinindo a Experiência do Usuário e a Descoberta de Insights - EMPRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.306",
+          "cod_centro_custo": "25171",
+          "titulo_projeto": "Plataforma de BI Aprimorada com IA Generativa: Redefinindo a Experiência do Usuário e a Descoberta de Insights - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.307",
+          "cod_centro_custo": "24765",
+          "titulo_projeto": "Ferramenta de busca em sítios web usando bots para processamento de linguagem natural - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.308",
+          "cod_centro_custo": "24764",
+          "titulo_projeto": "Ferramenta de busca em sítios web usando bots para processamento de linguagem natural - SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.309",
+          "cod_centro_custo": "24762",
+          "titulo_projeto": "Ferramenta de busca em sítios web usando bots para processamento de linguagem natural - EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.310",
+          "cod_centro_custo": "25451",
+          "titulo_projeto": "FRAMEWORK PREDITIVO E PRESCRITIVO DE APOIO À TOMADA DEDECISÃO PARA OTIMIZAÇÃO OPERACIONAL DE FORNOS DECOMBUSTÃO CONTÍNUA_EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.311",
+          "cod_centro_custo": "25453",
+          "titulo_projeto": "FRAMEWORK PREDITIVO E PRESCRITIVO DE APOIO À TOMADA DEDECISÃO PARA OTIMIZAÇÃO OPERACIONAL DE FORNOS DECOMBUSTÃO CONTÍNUA_EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.312",
+          "cod_centro_custo": "25078",
+          "titulo_projeto": "Gestão de Estoques Inteligentes com Predição e Visão Computacional - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.313",
+          "cod_centro_custo": "25077",
+          "titulo_projeto": "Gestão de Estoques Inteligentes com Predição e Visão Computacional - SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.314",
+          "cod_centro_custo": "25076",
+          "titulo_projeto": "Gestão de Estoques Inteligentes com Predição e Visão Computacional - EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.315",
+          "cod_centro_custo": "24854",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA À PROMOÇÃO DA PARENTALIDADE NA PRIMEIRA INFÂNCIA - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.316",
+          "cod_centro_custo": "24855",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA À PROMOÇÃO DA PARENTALIDADE NA PRIMEIRA INFÂNCIA - SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.317",
+          "cod_centro_custo": "24853",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA À PROMOÇÃO DA PARENTALIDADE NA PRIMEIRA INFÂNCIA - EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.318",
+          "cod_centro_custo": "25362",
+          "titulo_projeto": "DENTAL DEEP: UMA PROTÓTIPO DE AVALIAÇÃO PARCIAL DE ALGUMAS ALTERAÇÕES EM RAIO-X ODONTOLÓGICO_EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.319",
+          "cod_centro_custo": "25361",
+          "titulo_projeto": "DENTAL DEEP: UMA PROTÓTIPO DE AVALIAÇÃO PARCIAL DE ALGUMASALTERAÇÕES EM RAIO-X ODONTOLÓGICO_SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.320",
+          "cod_centro_custo": "25363",
+          "titulo_projeto": "DENTAL DEEP: UMA PROTÓTIPO DE AVALIAÇÃO PARCIAL DE ALGUMAS ALTERAÇÕES EM RAIO-X ODONTOLÓGICO_EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.321",
+          "cod_centro_custo": "24784",
+          "titulo_projeto": "DESENVOLVIMENTO DE ARQUITETURA DE SOFTWARE PARA SINTETIZAÇÃO DE VOZ COM EXPRESSÕES EMOCIONAIS - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.322",
+          "cod_centro_custo": "24785",
+          "titulo_projeto": "DESENVOLVIMENTO DE ARQUITETURA DE SOFTWARE PARA SINTETIZAÇÃO DE VOZ COM EXPRESSÕES EMOCIONAIS - SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.323",
+          "cod_centro_custo": "24783",
+          "titulo_projeto": "DESENVOLVIMENTO DE ARQUITETURA DE SOFTWARE PARA SINTETIZAÇÃO DE VOZ COM EXPRESSÕES EMOCIONAIS - EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.324",
+          "cod_centro_custo": "25172",
+          "titulo_projeto": "AUTOMAÇÃO E OTIMIZAÇÃO DA CADEIA DE SUPRIMENTOS PARA SMART STORES - EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.325",
+          "cod_centro_custo": "25173",
+          "titulo_projeto": "AUTOMAÇÃO E OTIMIZAÇÃO DA CADEIA DE SUPRIMENTOS PARA SMART STORES - SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.326",
+          "cod_centro_custo": "25174",
+          "titulo_projeto": "AUTOMAÇÃO E OTIMIZAÇÃO DA CADEIA DE SUPRIMENTOS PARA SMART STORES - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.327",
+          "cod_centro_custo": "24720",
+          "titulo_projeto": "Ambientômica no Melhoramento Genético: recomendação de genótipos de milho - EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.328",
+          "cod_centro_custo": "24721",
+          "titulo_projeto": "Ambientômica no Melhoramento Genético: recomendação de genótipos de milho - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.329",
+          "cod_centro_custo": "25120",
+          "titulo_projeto": "TECNOLOGIAS DE INTELIGÊNCIA ARTIFICIAL COMO CONSULTOR EMPRESARIAL_EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.330",
+          "cod_centro_custo": "25121",
+          "titulo_projeto": "TECNOLOGIAS DE INTELIGÊNCIA ARTIFICIAL COMO CONSULTOR EMPRESARIAL_SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.331",
+          "cod_centro_custo": "25119",
+          "titulo_projeto": "TECNOLOGIAS DE INTELIGÊNCIA ARTIFICIAL COMO CONSULTOR EMPRESARIAL_EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.332",
+          "cod_centro_custo": "25473",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL E GAMIFICAÇÃO AVANÇADA PARAAPRIMORAMENTO DE TREINOS E CATEGORIZAÇÃO DA PERCEPÇÃODE ESFORÇO_EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.333",
+          "cod_centro_custo": "25477",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL E GAMIFICAÇÃO AVANÇADA PARAAPRIMORAMENTO DE TREINOS E CATEGORIZAÇÃO DA PERCEPÇÃODE ESFORÇO_EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.334",
+          "cod_centro_custo": "25478",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL E GAMIFICAÇÃO AVANÇADA PARAAPRIMORAMENTO DE TREINOS E CATEGORIZAÇÃO DA PERCEPÇÃODE ESFORÇO_SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.335",
+          "cod_centro_custo": "25471",
+          "titulo_projeto": "AUTOMAÇÃO DO SUCESSO DE CLIENTES EM SISTEMAS DE GESTÃOEMPRESARIAL UTILIZANDO AGENTES DE INTELIGÊNCIA ARTIFICIAL_Embrapii",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.336",
+          "cod_centro_custo": "25470",
+          "titulo_projeto": "AUTOMAÇÃO DO SUCESSO DE CLIENTES EM SISTEMAS DE GESTÃOEMPRESARIAL UTILIZANDO AGENTES DE INTELIGÊNCIA ARTIFICIAL_SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.337",
+          "cod_centro_custo": "25472",
+          "titulo_projeto": "AUTOMAÇÃO DO SUCESSO DE CLIENTES EM SISTEMAS DE GESTÃOEMPRESARIAL UTILIZANDO AGENTES DE INTELIGÊNCIA ARTIFICIAL_EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.338",
+          "cod_centro_custo": "25122",
+          "titulo_projeto": "MAXIMIZANDO OS RESULTADOS COM TREINOS PRESCRITOS POR IA - EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.339",
+          "cod_centro_custo": "25123",
+          "titulo_projeto": "MAXIMIZANDO OS RESULTADOS COM TREINOS PRESCRITOS POR IA - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.340",
+          "cod_centro_custo": "25221",
+          "titulo_projeto": "CONTROLE INTELIGENTE DE FROTAS COM OPEN-RMF PARA VEÍCULOS LEVESAUTÔNOMOS EM AMBIENTES SOCIAIS URBANOS_EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.341",
+          "cod_centro_custo": "25222",
+          "titulo_projeto": "CONTROLE INTELIGENTE DE FROTAS COM OPEN-RMF PARA VEÍCULOS LEVESAUTÔNOMOS EM AMBIENTES SOCIAIS URBANOS_SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.342",
+          "cod_centro_custo": "25223",
+          "titulo_projeto": "CONTROLE INTELIGENTE DE FROTAS COM OPEN-RMF PARA VEÍCULOS LEVESAUTÔNOMOS EM AMBIENTES SOCIAIS URBANOS_EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.343",
+          "cod_centro_custo": "25436",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL CONVERSACIONAL PARA TOMADA DE DECISÃO EMGESTÃO DE PROJETOS_EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.344",
+          "cod_centro_custo": "25437",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL CONVERSACIONAL PARA TOMADA DE DECISÃO EMGESTÃO DE PROJETOS_SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.345",
+          "cod_centro_custo": "25438",
+          "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL CONVERSACIONAL PARA TOMADA DE DECISÃO EMGESTÃO DE PROJETOS_EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.346",
+          "cod_centro_custo": "25307",
+          "titulo_projeto": "MOTOR BIOMÉTRICO VETORIAL DE ALTA PERFORMANCE PARA DETECÇÃO DE SIMILARIDADE - EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.347",
+          "cod_centro_custo": "25308",
+          "titulo_projeto": "MOTOR BIOMÉTRICO VETORIAL DE ALTA PERFORMANCE PARA DETECÇÃO DE SIMILARIDADE - SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.348",
+          "cod_centro_custo": "25309",
+          "titulo_projeto": "MOTOR BIOMÉTRICO VETORIAL DE ALTA PERFORMANCE PARA DETECÇÃO DE SIMILARIDADE - EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.349",
+          "cod_centro_custo": "25382",
+          "titulo_projeto": "SISTEMAS INTELIGENTES PARA OTIMIZAÇÃO DE ESTOQUE POR MEIO DE PREVISÃO DE VENDAS E RECOMENDAÇÃO DE AÇÕES_EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.350",
+          "cod_centro_custo": "25384",
+          "titulo_projeto": "SISTEMAS INTELIGENTES PARA OTIMIZAÇÃO DE ESTOQUE POR MEIO DE PREVISÃO DE VENDAS E RECOMENDAÇÃO DE AÇÕES_SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.351",
+          "cod_centro_custo": "25383",
+          "titulo_projeto": "SISTEMAS INTELIGENTES PARA OTIMIZAÇÃO DE ESTOQUE POR MEIO DE PREVISÃO DE VENDAS E RECOMENDAÇÃO DE AÇÕES_EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.352",
+          "cod_centro_custo": "25474",
+          "titulo_projeto": "ESTIMATIVA DE PESO E CONTAGEM DE ITENS FLV ATRAVÉS DE VISÃOCOMPUTACIONAL_EMBRAPII",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.353",
+          "cod_centro_custo": "25476",
+          "titulo_projeto": "ESTIMATIVA DE PESO E CONTAGEM DE ITENS FLV ATRAVÉS DE VISÃOCOMPUTACIONAL_Sebrae",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.354",
+          "cod_centro_custo": "25475",
+          "titulo_projeto": "ESTIMATIVA DE PESO E CONTAGEM DE ITENS FLV ATRAVÉS DE VISÃOCOMPUTACIONAL_EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.355",
+          "cod_centro_custo": "25413",
+          "titulo_projeto": "Desenvolvimento de assistente inteligente para qualificação de atendimento em vendas - GOIA - EMBRAPII FILHA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.356",
+          "cod_centro_custo": "25415",
+          "titulo_projeto": "Desenvolvimento de assistente inteligente para qualificação de atendimento em vendas - GOIA - EMBRAPII SEBRAE",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "88.357",
+          "cod_centro_custo": "25416",
+          "titulo_projeto": "Desenvolvimento de assistente inteligente para qualificação de atendimento em vendas - GOIA - EMBRAPII EMPRESA",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "90.002.001",
+          "cod_centro_custo": "24434",
+          "titulo_projeto": "Associação Tecnológica - LI - Flextronics",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "90.002.002",
+          "cod_centro_custo": "25316",
+          "titulo_projeto": "Associação Tecnológica - LI - Positivo",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "90.003",
+          "cod_centro_custo": "25488",
+          "titulo_projeto": "IMPLANTAÇÃO DO CENTRO DE COMPETÊNCIA EMBRAPII EM TECNOLOGIAS IMERSIVAS APLICADAS PARA MUNDOS VIRTUAIS - Capacitação e formação de recursos humanos - AKCIT - RH",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "90.004",
+          "cod_centro_custo": "25278",
+          "titulo_projeto": "IMPLANTAÇÃO DO CENTRO DE COMPETÊNCIA EMBRAPII EM TECNOLOGIAS IMERSIVAS APLICADAS PARA MUNDOS VIRTUAIS",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "90.006",
+          "cod_centro_custo": "25367",
+          "titulo_projeto": "Pesquisa e Desenvolvimento de Técnicas Computacionais para Segurança e Privacidade de Dados Multimodais",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "90.007",
+          "cod_centro_custo": "24697",
+          "titulo_projeto": "SOFIA: Sensorial Olfactory Framework Immersive AI",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "90.008",
+          "cod_centro_custo": "25445",
+          "titulo_projeto": "Pesquisa e Desenvolvimento de Algoritmos para Construção de Componentes Tecnológicos de Humanos Digitais",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "90.009",
+          "cod_centro_custo": "24359",
+          "titulo_projeto": "Investigação sobre interações entre espaços físicos e espaços digitais imersivos",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "90.010",
+          "cod_centro_custo": "24414",
+          "titulo_projeto": "PESQUISA E DESENVOLVIMENTO DE AGENTES CAPAZES DE PLANEJAR, AGIR, COOPERAR E APRENDER",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "90.011",
+          "cod_centro_custo": "25162",
+          "titulo_projeto": "Framework para Avaliação Imersiva de Treinamentos baseada na Presença",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "90.012",
+          "cod_centro_custo": "25085",
+          "titulo_projeto": "Investigação de Tecnologia Imersivas para o Desenvolvimento de Novas Experiências nas Artes",
+          "subccustos": []
+        },
+        {
+          "centro_custo": "90.013",
+          "cod_centro_custo": "24992",
+          "titulo_projeto": "SITE-VR - Simulation, Immersive Training, and Education in Virtual Reality Simulação, Treinamento Imersivo e Educação em Realidade Virtual - EMBRAPII",
+          "subccustos": []
+        }
+      ],
+      "message": "Sucesso!"
+    }
+  ]

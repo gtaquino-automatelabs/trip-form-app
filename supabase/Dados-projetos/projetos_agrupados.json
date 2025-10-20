@@ -1,0 +1,1946 @@
+[
+  {
+    "result": true,
+    "dados": [
+      {
+        "titulo_projeto": "CEIA - Aditivo 2: Projetos de Inovação e Difusão em Inteligência Artificial",
+        "centros_custo": [
+          {
+            "centro_custo": "32.087.001",
+            "cod_centro_custo": "25161",
+            "tipo_financiamento": "INSTITUCIONAL"
+          }
+        ]
+      },
+      {
+        "titulo_projeto": "CLASSIFICAÇÃO DE MANIFESTAÇÕES PATOLÓGICAS NAS RODOVIAS DO ESTADO DE GOIÁS UTILIZANDO INTELIGÊNCIA ARTIFICIAL",
+        "centros_custo": [
+          {
+            "centro_custo": "32.105",
+            "cod_centro_custo": "24803",
+            "tipo_financiamento": "INSTITUCIONAL"
+          }
+        ]
+      },
+      {
+        "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA NOS DOCUMENTOS INDEXADOS NA BASE DE DADOS DOCUMENTAL DO TRIBUNAL DE CONTAS DO ESTADO DE GOIÁS",
+        "centros_custo": [
+          {
+            "centro_custo": "32.106",
+            "cod_centro_custo": "24834",
+            "tipo_financiamento": "INSTITUCIONAL"
+          }
+        ]
+      },
+      {
+        "titulo_projeto": "CENTRO DE COMPETÊNCIA EMBRAPII EM TECNOLOGIAS IMERSIVAS APLICADAS A MUNDOS VIRTUAIS",
+        "centros_custo": [
+          {
+            "centro_custo": "32.114",
+            "cod_centro_custo": "24787",
+            "tipo_financiamento": "INSTITUCIONAL"
+          }
+        ]
+      },
+      {
+        "titulo_projeto": "APRIMORAMENTO DO PROCESSO DE REGISTRO DE MARCAS POR MEIO DE CONSULTAS COM INTELIGÊNCIA ARTIFICIAL",
+        "centros_custo": [
+          {
+            "centro_custo": "32.117",
+            "cod_centro_custo": "25359",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ]
+      },
+      {
+        "titulo_projeto": "GERAÇÃO AUTOMÁTICA DE TEXTOS JURÍDICOS UTILIZANDO MODELOS DE GERADORES DE LINGUAGEM NATURAL",
+        "centros_custo": [
+          {
+            "centro_custo": "88.108",
+            "cod_centro_custo": "23711",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.109",
+            "cod_centro_custo": "23714",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.110",
+            "cod_centro_custo": "23713",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "REDE EMPRESARIAL II",
+        "coordenador": {
+          "nome": "Arlindo Rodrigues Galvão Filho",
+          "email": "arlindo.galvao@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "PLANEJAMENTO INTELIGENTE DA LINHA DE PRODUÇÃO PARA INDÚSTRIA MOVELEIRA",
+        "centros_custo": [
+          {
+            "centro_custo": "88.120",
+            "cod_centro_custo": "24873",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.121",
+            "cod_centro_custo": "24870",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.122",
+            "cod_centro_custo": "24874",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "IMOL",
+        "coordenador": {
+          "nome": "Telma Woerle de Lima Soares",
+          "email": "telma.soares@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "AUTOMAÇÃO DE PROCESSOS EM CENTRAIS DE ATENDIMENTO UTILIZANDO ENGENHARIA DE PROMPTS E INSERÇÃO DE BASES DE CONHECIMENTO EM MODELOS DE LINGUAGEM DE GRANDE PORTE",
+        "centros_custo": [
+          {
+            "centro_custo": "88.130",
+            "cod_centro_custo": "24107",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.131",
+            "cod_centro_custo": "24110",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.132",
+            "cod_centro_custo": "24108",
+            "tipo_financiamento": "EMPRESA"
+          },
+          {
+            "centro_custo": "88.133",
+            "cod_centro_custo": "24111",
+            "tipo_financiamento": "EMPRESA PEQ"
+          }
+        ],
+        "nickName": "DATAMÉTRICA II",
+        "coordenador": {
+          "nome": "Arlindo Rodrigues Galvão Filho",
+          "email": "arlindo.galvao@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL PARA APRIMORAMENTO DO PROCESSO DE CONTROLE DE INSETOS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.149",
+            "cod_centro_custo": "24202",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.150",
+            "cod_centro_custo": "24204",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.151",
+            "cod_centro_custo": "24203",
+            "tipo_financiamento": "EMBRAPII EMPRESA"
+          }
+        ],
+        "nickName": "ULTRALIGHT",
+        "coordenador": {
+          "nome": "Iwens Gervásio Sene Júnior",
+          "email": "iwens.sene@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "SOFTWARE INTELIGENTE PARA MINERAÇÃO E GESTÃO DE INFORMAÇÕES EM COMPRAS PÚBLICAS DE PRODUTOS INDUSTRIAIS DE TECNOLOGIAS DA INFORMAÇÃO",
+        "centros_custo": [
+          {
+            "centro_custo": "88.159",
+            "cod_centro_custo": "25354",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.160",
+            "cod_centro_custo": "25355",
+            "tipo_financiamento": "EMBRAPII EMPRESA"
+          }
+        ],
+        "nickName": "POSITIVO",
+        "coordenador": {
+          "nome": "Adailton Ferreira de Araujo",
+          "email": "adailton.araujo@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "MANUTENÇÃO INTELIGENTE E OTIMIZAÇÃO DA PRODUÇÃO DE PEÇAS EM INJETORAS DE ALUMÍNIO",
+        "centros_custo": [
+          {
+            "centro_custo": "88.161",
+            "cod_centro_custo": "25430",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.162",
+            "cod_centro_custo": "25431",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.163",
+            "cod_centro_custo": "25432",
+            "tipo_financiamento": "EMPRESA"
+          },
+          {
+            "centro_custo": "88.164",
+            "cod_centro_custo": "25433",
+            "tipo_financiamento": "EMPRESA PEQ"
+          }
+        ],
+        "nickName": "SEG AUTOMOTIVE",
+        "coordenador": {
+          "nome": "Iwens Gervásio Sene Júnior",
+          "email": "iwens.sene@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "AGRUPAMENTO E CLASSIFICAÇÃO AUTOMATIZADA DE ITENS DESCRITIVOS EM LICITAÇÕES DE COMPRAS DE PRODUTOS PELA ADMINISTRAÇÃO PÚBLICA",
+        "centros_custo": [
+          {
+            "centro_custo": "88.165",
+            "cod_centro_custo": "25089",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.166",
+            "cod_centro_custo": "25090",
+            "tipo_financiamento": "EMBRAPII EMPRESA"
+          }
+        ],
+        "nickName": "ECUSTOMIZE",
+        "coordenador": {
+          "nome": "Vagner José do Sacramento Rodrigues",
+          "email": "vagner.sacramento@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA A CONSTRUÇÃO DE AMBIENTES IMERSIVOS PARA O VAREJO",
+        "centros_custo": [
+          {
+            "centro_custo": "88.167",
+            "cod_centro_custo": "25263",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.168",
+            "cod_centro_custo": "25266",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.169",
+            "cod_centro_custo": "25264",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "B2ML",
+        "coordenador": {
+          "nome": "Anderson da Silva Soares",
+          "email": "anderson.soares@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "MAPEAMENTO SEMÂNTICO COM LIDAR PARA VEÍCULOS AUTÔNOMOS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.170",
+            "cod_centro_custo": "24504",
+            "tipo_financiamento": "EMBRAPII"
+          }
+        ],
+        "nickName": "LUME ROBOTICS",
+        "coordenador": {
+          "nome": "Lucas Araújo Pereira",
+          "email": "lucas.pereira@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "SEGMENTAÇÃO E ALINHAMENTO DE IMAGENS DE VEÍCULOS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.171",
+            "cod_centro_custo": "24585",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.172",
+            "cod_centro_custo": "24586",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.173",
+            "cod_centro_custo": "24588",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "GARAGEM 4D",
+        "coordenador": {
+          "nome": "Gustavo Teodoro Laureano",
+          "email": "gustavo.laureano@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "ENERGYGPT: MODELO DE LINGUAGEM NATURAL DE GRANDE PORTE PARA APLICAÇÕES NO SETOR ELÉTRICO",
+        "centros_custo": [
+          {
+            "centro_custo": "88.174",
+            "cod_centro_custo": "25279",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.175",
+            "cod_centro_custo": "25281",
+            "tipo_financiamento": "EMBRAPII EMPRESA"
+          }
+        ],
+        "nickName": "CEMIG",
+        "coordenador": {
+          "nome": "Arlindo Rodrigues Galvão Filho",
+          "email": "arlindo.galvao@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "VALIDAÇÃO DE UM SISTEMA DE MINERAÇÃO INTELIGENTE DE ENTIDADES NOMEADAS EM DOCUMENTOS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.177",
+            "cod_centro_custo": "24862",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.178",
+            "cod_centro_custo": "24866",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.179",
+            "cod_centro_custo": "24867",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "MR TURING III",
+        "coordenador": {
+          "nome": "Rodrigo Zempulski Fanucchi",
+          "email": "rodrigo.fanucchi@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "ENGAJAMENTO NOS CUIDADOS DE SAÚDE POR MEIO DE GAMIFICAÇÃO E INTELIGÊNCIA ARTIFICIAL",
+        "centros_custo": [
+          {
+            "centro_custo": "88.180",
+            "cod_centro_custo": "25458",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.181",
+            "cod_centro_custo": "25460",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.182",
+            "cod_centro_custo": "25459",
+            "tipo_financiamento": "EMBRAPII EMPRESA"
+          }
+        ],
+        "nickName": "PACTO",
+        "coordenador": {
+          "nome": "Leonardo Antonio Alves",
+          "email": "leonardo.alves@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "ASSISTENTE VIRTUAL PARA RECOMENDAÇÃO DE AÇÕES NA PRODUÇÃO AGRÍCOLA",
+        "centros_custo": [
+          {
+            "centro_custo": "88.183",
+            "cod_centro_custo": "22781",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.184",
+            "cod_centro_custo": "22782",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "ATTO INTELLIGENCE",
+        "coordenador": {
+          "nome": "Anderson da Silva Soares",
+          "email": "anderson.soares@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "MODELOS DE LINGUAGEM PARA ASSISTÊNCIA JURÍDICA",
+        "centros_custo": [
+          {
+            "centro_custo": "88.185",
+            "cod_centro_custo": "23447",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.186",
+            "cod_centro_custo": "23449",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.187",
+            "cod_centro_custo": "23450",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "COTIZEI",
+        "coordenador": {
+          "nome": "Anderson da Silva Soares",
+          "email": "anderson.soares@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "ALGORITMOS INTELIGENTES PARA COLETA E ANÁLISE ATIVA DE DADOS PARA CUIDADOS EM AMBIENTES CORPORATIVOS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.189",
+            "cod_centro_custo": "25364",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.190",
+            "cod_centro_custo": "25366",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.191",
+            "cod_centro_custo": "25365",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "OPENHEALTH",
+        "coordenador": {
+          "nome": "Renato Bulcão",
+          "email": "renato.neto@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "UMA ABORDAGEM INTELIGENTE NA GESTÃO DE RISCOS PARA OTIMIZAÇÃO DE RECURSOS EM EMPRESAS DO SETOR DA SAÚDE",
+        "centros_custo": [
+          {
+            "centro_custo": "88.192",
+            "cod_centro_custo": "25128",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.193",
+            "cod_centro_custo": "25130",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.194",
+            "cod_centro_custo": "25129",
+            "tipo_financiamento": "EMBRAPII EMPRESA"
+          }
+        ],
+        "nickName": "SIMEON",
+        "coordenador": {
+          "nome": "Renata",
+          "email": "renata.braga@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "FERRAMENTA PRESCRITIVA DE APOIO À TOMADA DE DECISÃO PARA OTIMIZAÇÃO OPERACIONAL DE PROCESSOS INDUSTRIAIS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.195",
+            "cod_centro_custo": "25115",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.196",
+            "cod_centro_custo": "25118",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.197",
+            "cod_centro_custo": "25116",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "INDUSTRYCARE II",
+        "coordenador": {
+          "nome": "Vinicius Sebba Patto",
+          "email": "vinicius.patto@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "ALGORITMOS INTELIGENTES PARA SINTETIZAÇÃO E CONVERSÃO DE VOZES",
+        "centros_custo": [
+          {
+            "centro_custo": "88.198",
+            "cod_centro_custo": "25158",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.199",
+            "cod_centro_custo": "25159",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.200",
+            "cod_centro_custo": "25160",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "DVCO",
+        "coordenador": {
+          "nome": "Anderson da Silva Soares",
+          "email": "anderson.soares@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "ALGORITMOS INTELIGENTES PARA APOIO AO MONITORAMENTO REMOTO DE SAÚDE MENTAL",
+        "centros_custo": [
+          {
+            "centro_custo": "88.201",
+            "cod_centro_custo": "25240",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.202",
+            "cod_centro_custo": "25242",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.203",
+            "cod_centro_custo": "25241",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "DM HEALTH III",
+        "coordenador": {
+          "nome": "Renato Bulcão",
+          "email": "renato.neto@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA NA CRIAÇÃO AUTOMÁTICA DE SITES PARA PEQUENAS E MÉDIAS EMPRESAS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.207",
+            "cod_centro_custo": "25124",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.208",
+            "cod_centro_custo": "25125",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.209",
+            "cod_centro_custo": "25126",
+            "tipo_financiamento": "EMBRAPII EMPRESA"
+          }
+        ],
+        "nickName": "MIDIASIM",
+        "coordenador": {
+          "nome": "Sávio Salvarino Teles de Oliveira",
+          "email": "savio.oliveira@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL NA IDENTIFICAÇÃO DE MARCAS EM BOVINOS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.210",
+            "cod_centro_custo": "24767",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.211",
+            "cod_centro_custo": "24769",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.212",
+            "cod_centro_custo": "24768",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "APPORTEIRA",
+        "coordenador": {
+          "nome": "Aldo André Diaz Salazar",
+          "email": "aldo.salazar@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "ALGORITMOS INTELIGENTES PARA MANUTENÇÃO PREVENTIVA DE VEÍCULOS DE TRANSPORTE PÚBLICO",
+        "centros_custo": [
+          {
+            "centro_custo": "88.213",
+            "cod_centro_custo": "25153",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.214",
+            "cod_centro_custo": "25154",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "RÁPIDO ARAGUAIA",
+        "coordenador": {
+          "nome": "Gustavo Teodoro Laureano",
+          "email": "gustavo.laureano@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "SMARTVISION: GERENCIAMENTO E MINIMIZAÇÃO DE RISCOS DE SEGURANÇA DE TRABALHO NA EXECUÇÃO DE SERVIÇOS ATRAVÉS DE INTELIGÊNCIA ARTIFICIAL",
+        "centros_custo": [
+          {
+            "centro_custo": "88.218",
+            "cod_centro_custo": "24751",
+            "tipo_financiamento": "EMPRESA"
+          },
+          {
+            "centro_custo": "88.219",
+            "cod_centro_custo": "24748",
+            "tipo_financiamento": "EMBRAPII"
+          },
+          {
+            "centro_custo": "88.220",
+            "cod_centro_custo": "24750",
+            "tipo_financiamento": "SEBRAE"
+          }
+        ],
+        "nickName": "DIGEFX",
+        "coordenador": {
+          "nome": "Thyago Carvalho Marques",
+          "email": "thyago.marques@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "PREVISÃO DE RATEIO DE CRÉDITOS PARA O CONSUMO DE ENERGIA SOLAR COM O USO DE INTELIGÊNCIA ARTIFICIAL",
+        "centros_custo": [
+          {
+            "centro_custo": "88.221",
+            "cod_centro_custo": "25421",
+            "tipo_financiamento": "EMPRESA"
+          },
+          {
+            "centro_custo": "88.222",
+            "cod_centro_custo": "25419",
+            "tipo_financiamento": "EMBRAPII"
+          },
+          {
+            "centro_custo": "88.223",
+            "cod_centro_custo": "25420",
+            "tipo_financiamento": "SEBRAE FILHA"
+          }
+        ],
+        "nickName": "ATHON",
+        "coordenador": {
+          "nome": "Thyago Carvalho Marques",
+          "email": "thyago.marques@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA NA CRIAÇÃO DE ASSISTENTE VIRTUAL PARA AUTOMAÇÃO DE TAREFAS EM PRONTUÁRIOS ELETRÔNICOS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.224",
+            "cod_centro_custo": "25132",
+            "tipo_financiamento": "EMPRESA"
+          },
+          {
+            "centro_custo": "88.225",
+            "cod_centro_custo": "25127",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          }
+        ],
+        "nickName": "VR HEALTH",
+        "coordenador": {
+          "nome": "Sávio Salvarino Teles de Oliveira",
+          "email": "savio.oliveira@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "FERRAMENTA PARA RASTREABILIDADE DE PRODUTOS VEGETAIS COM USO DE BLOCKCHAIN",
+        "centros_custo": [
+          {
+            "centro_custo": "88.226",
+            "cod_centro_custo": "24945",
+            "tipo_financiamento": "EMPRESA"
+          },
+          {
+            "centro_custo": "88.227",
+            "cod_centro_custo": "24944",
+            "tipo_financiamento": "EMBRAPII"
+          },
+          {
+            "centro_custo": "88.228",
+            "cod_centro_custo": "24946",
+            "tipo_financiamento": "SEBRAE"
+          }
+        ],
+        "nickName": "PETIT",
+        "coordenador": {
+          "nome": "Vinicius Sebba Patto",
+          "email": "vinicius.patto@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL NA GERAÇÃO DE MÉTODOS QUANTITATIVOS PARA PREVISÃO DE INDICADORES ECONÔMICOS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.229",
+            "cod_centro_custo": "25448",
+            "tipo_financiamento": "EMPRESA"
+          },
+          {
+            "centro_custo": "88.230",
+            "cod_centro_custo": "25447",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.231",
+            "cod_centro_custo": "25449",
+            "tipo_financiamento": "SEBRAE FILHA"
+          }
+        ],
+        "nickName": "ODM",
+        "coordenador": {
+          "nome": "Anderson da Silva Soares",
+          "email": "anderson.soares@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "CHATBOTS PARA TUTORIA PEDAGÓGICA CENTRADA EM ROBÓTICA COM ALUNOS DE ESCOLAS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.232",
+            "cod_centro_custo": "25358",
+            "tipo_financiamento": "EMPRESA"
+          },
+          {
+            "centro_custo": "88.236",
+            "cod_centro_custo": "25357",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.237",
+            "cod_centro_custo": "25356",
+            "tipo_financiamento": "SEBRAE FILHA"
+          }
+        ],
+        "nickName": "BONADIMANN - EDUBOTS",
+        "coordenador": {
+          "nome": "Anderson da Silva Soares",
+          "email": "anderson.soares@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "DAISSE: VIGILÂNCIA E ANÁLISE DE DADOS AVANÇADA COM MODELOS MASSIVOS DE LINGUAGEM PARA EMPODERAMENTO DE LÍDERES",
+        "centros_custo": [
+          {
+            "centro_custo": "88.233",
+            "cod_centro_custo": "24951",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.234",
+            "cod_centro_custo": "24950",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.235",
+            "cod_centro_custo": "24952",
+            "tipo_financiamento": "EMBRAPII EMPRESA"
+          }
+        ],
+        "nickName": "KOREDATA: DAISE",
+        "coordenador": {
+          "nome": "Anderson da Silva Soares",
+          "email": "anderson.soares@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "GERAÇÃO DE TUTORES VIRTUAIS INTELIGENTES ATRAVÉS DE AGENTES DE LINGUAGEM NATURAL",
+        "centros_custo": [
+          {
+            "centro_custo": "88.238",
+            "cod_centro_custo": "25157",
+            "tipo_financiamento": "EMPRESA FILHA"
+          },
+          {
+            "centro_custo": "88.239",
+            "cod_centro_custo": "25155",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.240",
+            "cod_centro_custo": "25156",
+            "tipo_financiamento": "SEBRAE FILHA"
+          }
+        ],
+        "nickName": "LEMKE/ALFACOM",
+        "coordenador": {
+          "coordenador1": {
+            "nome": "Anderson da Silva Soares",
+            "email": "anderson.soares@ceia.ufg.br"
+          },
+          "coordenador2": {
+            "nome": "Thiago Naves",
+            "email": "thiago.naves@ceia.ufg.br"
+          }
+        }
+      },
+      {
+        "titulo_projeto": "DIAGNÓSTICO DE FALHA DE EQUIPAMENTOS E TOMADA DE DECISÃO UTILIZANDO INTELIGÊNCIA ARTIFICIAL E SENSORIAMENTO",
+        "centros_custo": [
+          {
+            "centro_custo": "88.241",
+            "cod_centro_custo": "22093",
+            "tipo_financiamento": "EMPRESA FILHA"
+          },
+          {
+            "centro_custo": "88.242",
+            "cod_centro_custo": "22090",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.243",
+            "cod_centro_custo": "22092",
+            "tipo_financiamento": "SEBRAE FILHA"
+          }
+        ],
+        "nickName": "MELVIN II",
+        "coordenador": {
+          "nome": "Flávio Henrique Teles Vieira",
+          "email": "flavio.vieira@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "UMA ABORDAGEM DE APRENDIZADO DE MÁQUINA PARA PREVISÃO DE SUCESSO DE PROCESSOS JURÍDICOS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.244",
+            "cod_centro_custo": "25145",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.245",
+            "cod_centro_custo": "25144",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.246",
+            "cod_centro_custo": "25146",
+            "tipo_financiamento": "EMBRAPII EMPRESA"
+          }
+        ],
+        "nickName": "HUNTER II",
+        "coordenador": {
+          "coordenador1": {
+            "nome": "Anderson da Silva Soares",
+            "email": "anderson.soares@ceia.ufg.br"
+          },
+          "coordenador2": {
+            "nome": "Rodrigo Zempulski Fanucchi",
+            "email": ""
+          }
+        }
+      },
+      {
+        "titulo_projeto": "APLICAÇÃO DE APRENDIZADO ATIVO PARA CONSTRUÇÃO EM LARGA ESCALA DE MODELOS DE VISÃO COMPUTACIONAL PARA INSPEÇÃO DE ATIVOS EM REDES DE DISTRIBUIÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA",
+        "centros_custo": [
+          {
+            "centro_custo": "88.247",
+            "cod_centro_custo": "24723",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.248",
+            "cod_centro_custo": "24724",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.249",
+            "cod_centro_custo": "24725",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "4VANTS II",
+        "coordenador": {
+          "nome": "Lucas Araújo Pereira",
+          "email": "lucas.pereira@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "USO DE TECNOLOGIAS PARA CRIAÇÃO DE UM ROBÔ CONSTRUTOR DE SOFTWARE AS A MEDICAL DEVICE - SAMD",
+        "centros_custo": [
+          {
+            "centro_custo": "88.251",
+            "cod_centro_custo": "24929",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.252",
+            "cod_centro_custo": "24927",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.253",
+            "cod_centro_custo": "24930",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "REQUISITO II",
+        "coordenador": {
+          "coordenador1": {
+            "nome": "Taciana Novo Kudo",
+            "email": "taciana.kudo@ceia.ufg.br"
+          },
+          "coordenador2": {
+            "nome": "Anderson da Silva Soares",
+            "email": "anderson.soares@ceia.ufg.br"
+          }
+        }
+      },
+      {
+        "titulo_projeto": "TÉCNICAS AVANÇADAS DE PROCESSAMENTO DE LINGUAGEM NATURAL E DE TEORIA DOS GRAFOS PARA MONITORAMENTO DO CICLO DE PRODUTO AUTOMOTIVO EM DADOS NÃO ESTRUTURADOS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.254",
+            "cod_centro_custo": "25454",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.255",
+            "cod_centro_custo": "25456",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "MR TURING IV",
+        "coordenador": {
+          "coordenador1": {
+            "nome": "Anderson da Silva Soares",
+            "email": "anderson.soares@ceia.ufg.br"
+          },
+          "coordenador2": {
+            "nome": "Rodrigo Zempulski Fanucchi",
+            "email": ""
+          }
+        }
+      },
+      {
+        "titulo_projeto": "USO DE INTELIGÊNCIA ARTIFICIAL PARA OTIMIZAR A ALOCAÇÃO DE RECURSOS NO TRANSPORTE E DISTRIBUIÇÃO DE COMBUSTÍVEIS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.256",
+            "cod_centro_custo": "25151",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.257",
+            "cod_centro_custo": "25152",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "TABOCÃO",
+        "coordenador": {
+          "nome": "Vagner José do Sacramento Rodrigues",
+          "email": "vagner.sacramento@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "PROCESSAMENTO DE LINGUAGEM NATURAL PARA ANÁLISE E OTIMIZAÇÃO DE CAMPANHAS DE MARKETING DIGITAL EM MÚLTIPLAS PLATAFORMAS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.258",
+            "cod_centro_custo": "25422",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.259",
+            "cod_centro_custo": "25425",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.260",
+            "cod_centro_custo": "25424",
+            "tipo_financiamento": "EMBRAPII EMPRESA"
+          }
+        ],
+        "nickName": "BIGLINK - DATALOGANDO",
+        "coordenador": {
+          "nome": "Anderson da Silva Soares",
+          "email": "anderson.soares@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA À GAMIFICAÇÃO PARA O APRIMORAMENTO DA PRÁTICA DE SONHOS LÚCIDOS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.261",
+            "cod_centro_custo": "25257",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.262",
+            "cod_centro_custo": "25258",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.263",
+            "cod_centro_custo": "25259",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "WIBI - DREAM BOOKS",
+        "coordenador": {
+          "nome": "Leonardo Antonio Alves",
+          "email": "leonardo.alves@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "ASSISTENTE INTELIGENTE COM INTERFACE DE LINGUAGEM NATURAL PARA APOIO À COORDENAÇÃO DE PROJETOS BIM DE CONSTRUÇÃO",
+        "centros_custo": [
+          {
+            "centro_custo": "88.264",
+            "cod_centro_custo": "25369",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.265",
+            "cod_centro_custo": "25370",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.266",
+            "cod_centro_custo": "25371",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "MALETA DO ENGENHEIRO",
+        "coordenador": {
+          "nome": "Gelson Cruz Junior",
+          "email": "gelson.cruz@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "AIDBOT",
+        "centros_custo": [
+          {
+            "centro_custo": "88.267",
+            "cod_centro_custo": "25163",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.268",
+            "cod_centro_custo": "25165",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.269",
+            "cod_centro_custo": "25166",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "RHTRON: AIDBOT",
+        "coordenador": {
+          "nome": "Celso Gonçalves Camilo Junior",
+          "email": "celso.camilo@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "SEGMENTAÇÃO DE INSTÂNCIA DE PARTES DE VEÍCULOS CONSIDERANDO MÚLTIPLOS TIPOS DE CATEGORIAS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.270",
+            "cod_centro_custo": "25480",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.272",
+            "cod_centro_custo": "25481",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "CILIA III",
+        "coordenador": {
+          "nome": "Anderson da Silva Soares",
+          "email": "anderson.soares@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "CONECTIVIDADE HÍBRIDA DE VEÍCULOS EM CIDADES INTELIGENTES NO CONTEXTO BRASILEIRO",
+        "centros_custo": [
+          {
+            "centro_custo": "88.273",
+            "cod_centro_custo": "25348",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.274",
+            "cod_centro_custo": "25350",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.275",
+            "cod_centro_custo": "25349",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "SYNKAR V",
+        "coordenador": {
+          "nome": "Aldo André Diaz Salazar",
+          "email": "aldo.salazar@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "ASSISTENTE INTELIGENTE PARA ATENDIMENTO E DIAGNÓSTICO VEICULAR EM OFICINAS MECÂNICAS AUTOMOBILÍSTICAS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.276",
+            "cod_centro_custo": "25462",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.277",
+            "cod_centro_custo": "25463",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.278",
+            "cod_centro_custo": "25461",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "BRASWEB - OFICINA CONECTADA",
+        "coordenador": {
+          "nome": "Sávio Salvarino Teles de Oliveira",
+          "email": "savio.oliveira@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "TECNOLOGIAS DE INTEGRAÇÃO DE AGENTES CONVERSACIONAIS PARA RESPOSTAS COMPLEXAS, UTILIZANDO APRENDIZADO POR REFORÇO COM FEEDBACK (RLHF)",
+        "centros_custo": [
+          {
+            "centro_custo": "88.279",
+            "cod_centro_custo": "25372",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.280",
+            "cod_centro_custo": "25373",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.281",
+            "cod_centro_custo": "25374",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "HUG",
+        "coordenador": {
+          "nome": "Telma Woerle de Lima Soares",
+          "email": "telma.soares@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "OTIMIZAÇÃO INTELIGENTE DA GESTÃO LOGÍSTICA DE ESTOQUES E FRETES EM CENTROS DE DISTRIBUIÇÃO VAREJISTAS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.282",
+            "cod_centro_custo": "25484",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.283",
+            "cod_centro_custo": "25486",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.284",
+            "cod_centro_custo": "25487",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "LEVEROS",
+        "coordenador": {
+          "nome": "Telma Woerle de Lima Soares",
+          "email": "telma.soares@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL PARA GESTÃO E DESENVOLVIMENTO DE HABILIDADES NO AMBIENTE CORPORATIVO",
+        "centros_custo": [
+          {
+            "centro_custo": "88.285",
+            "cod_centro_custo": "25299",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.286",
+            "cod_centro_custo": "25300",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.287",
+            "cod_centro_custo": "25294",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "ESCOLA VIVA - KORU",
+        "coordenador": {
+          "nome": "Taciana Novo Kudo",
+          "email": "taciana.kudo@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "PLATAFORMA PARA CAPTURA DE DADOS DE CONECTIVIDADE E ANÁLISE DE QUALIDADE PARA ROBÔS AUTÔNOMOS EM CONTEXTO URBANO BRASILEIRO",
+        "centros_custo": [
+          {
+            "centro_custo": "88.288",
+            "cod_centro_custo": "25244",
+            "tipo_financiamento": "EMBRAPII"
+          },
+          {
+            "centro_custo": "88.289",
+            "cod_centro_custo": "25245",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "SYNKAR VI",
+        "coordenador": {
+          "nome": "Gustavo Teodoro Laureano",
+          "email": "gustavo.laureano@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "ASSISTENTE INTELIGENTE COM INTERFACE DE LINGUAGEM NATURAL PARA CRIAÇÃO E RECOMENDAÇÃO DE PERFIS EM PLATAFORMA DE MATCHES",
+        "centros_custo": [
+          {
+            "centro_custo": "88.290",
+            "cod_centro_custo": "25342",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.291",
+            "cod_centro_custo": "25344",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.292",
+            "cod_centro_custo": "25345",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "FAMILE",
+        "coordenador": {
+          "nome": "Telma Woerle de Lima Soares",
+          "email": "telma.soares@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "PREVISÃO INTELIGENTE DA DEMANDA E ESCALONAMENTO DE RECURSOS DE REDE EM PROVEDORES MODERNOS DE SERVIÇOS DE INTERNET",
+        "centros_custo": [
+          {
+            "centro_custo": "88.293",
+            "cod_centro_custo": "24974",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.294",
+            "cod_centro_custo": "24976",
+            "tipo_financiamento": "SEBRAE FILHA"
+          },
+          {
+            "centro_custo": "88.295",
+            "cod_centro_custo": "24977",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "XGO",
+        "coordenador": {
+          "nome": "Telma Woerle de Lima Soares",
+          "email": "telma.soares@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA NA DETECÇÃO DE ANOMALIAS EM VÍDEOS NO APOIO À TOMADA DE DECISÃO",
+        "centros_custo": [
+          {
+            "centro_custo": "88.296",
+            "cod_centro_custo": "25109",
+            "tipo_financiamento": "EMPRESA"
+          },
+          {
+            "centro_custo": "88.297",
+            "cod_centro_custo": "25110",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.298",
+            "cod_centro_custo": "25108",
+            "tipo_financiamento": "SEBRAE"
+          }
+        ],
+        "nickName": "ZSCAN II",
+        "coordenador": {
+          "nome": "Ricardo Augusto Pereira Franco",
+          "email": "ricardo.franco@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "MAPEAMENTO E APRIMORAMENTO DE CASOS DE TESTE COM INSTRUÇÕES EM LINGUAGEM NATURAL BASEADA EM CASOS DE TESTE BEM-SUCEDIDOS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.299",
+            "cod_centro_custo": "25060",
+            "tipo_financiamento": "EMPRESA"
+          },
+          {
+            "centro_custo": "88.300",
+            "cod_centro_custo": "25285",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.301",
+            "cod_centro_custo": "25062",
+            "tipo_financiamento": "EMBRAPII"
+          }
+        ],
+        "nickName": "WAVINGTEST",
+        "coordenador": {
+          "nome": "Juliana Pereira de Souza Zinader",
+          "email": "juliana.zinader@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL PARA ANÁLISE MULTITAREFA DE FEEDBACKS DE USUÁRIOS COM USO DE LARGE LANGUAGE MODELS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.302",
+            "cod_centro_custo": "25427",
+            "tipo_financiamento": "EMPRESA"
+          },
+          {
+            "centro_custo": "88.303",
+            "cod_centro_custo": "25428",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.304",
+            "cod_centro_custo": "25426",
+            "tipo_financiamento": "EMBRAPII"
+          }
+        ],
+        "nickName": "SSOFT III",
+        "coordenador": {
+          "nome": "Adailton Ferreira de Araujo",
+          "email": "adailton.araujo@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "PLATAFORMA DE BI APRIMORADA COM IA GENERATIVA: REDEFININDO A EXPERIÊNCIA DO USUÁRIO E A DESCOBERTA DE INSIGHTS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.305",
+            "cod_centro_custo": "25170",
+            "tipo_financiamento": "EMBRAPII"
+          },
+          {
+            "centro_custo": "88.306",
+            "cod_centro_custo": "25171",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "PA GROUP",
+        "coordenador": {
+          "nome": "Vagner José do Sacramento Rodrigues",
+          "email": "vagner.sacramento@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "FERRAMENTA DE BUSCA EM SÍTIOS WEB USANDO BOTS PARA PROCESSAMENTO DE LINGUAGEM NATURAL",
+        "centros_custo": [
+          {
+            "centro_custo": "88.307",
+            "cod_centro_custo": "24765",
+            "tipo_financiamento": "EMPRESA"
+          },
+          {
+            "centro_custo": "88.308",
+            "cod_centro_custo": "24764",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.309",
+            "cod_centro_custo": "24762",
+            "tipo_financiamento": "EMBRAPII"
+          }
+        ],
+        "nickName": "COGNI",
+        "coordenador": {
+          "nome": "Vinícius Sebba Patto",
+          "email": "vinicius.patto@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "FRAMEWORK PREDITIVO E PRESCRITIVO DE APOIO À TOMADA DE DECISÃO PARA OTIMIZAÇÃO OPERACIONAL DE FORNOS DE COMBUSTÃO CONTÍNUA",
+        "centros_custo": [
+          {
+            "centro_custo": "88.310",
+            "cod_centro_custo": "25451",
+            "tipo_financiamento": "EMBRAPII"
+          },
+          {
+            "centro_custo": "88.311",
+            "cod_centro_custo": "25453",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "INDUSTRYCARE III",
+        "coordenador": {
+          "nome": "Vinícius Sebba Patto",
+          "email": "vinicius.patto@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "GESTÃO DE ESTOQUES INTELIGENTES COM PREDIÇÃO E VISÃO COMPUTACIONAL",
+        "centros_custo": [
+          {
+            "centro_custo": "88.312",
+            "cod_centro_custo": "25078",
+            "tipo_financiamento": "EMPRESA"
+          },
+          {
+            "centro_custo": "88.313",
+            "cod_centro_custo": "25077",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.314",
+            "cod_centro_custo": "25076",
+            "tipo_financiamento": "EMBRAPII"
+          }
+        ],
+        "nickName": "LOGÍSTICA II",
+        "coordenador": {
+          "nome": "Anderson da Silva Soares",
+          "email": "anderson.soares@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL APLICADA À PROMOÇÃO DA PARENTALIDADE NA PRIMEIRA INFÂNCIA",
+        "centros_custo": [
+          {
+            "centro_custo": "88.315",
+            "cod_centro_custo": "24854",
+            "tipo_financiamento": "EMPRESA"
+          },
+          {
+            "centro_custo": "88.316",
+            "cod_centro_custo": "24855",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.317",
+            "cod_centro_custo": "24853",
+            "tipo_financiamento": "EMBRAPII"
+          }
+        ],
+        "nickName": "PINGO"
+      },
+      {
+        "titulo_projeto": "DENTAL DEEP: UM PROTÓTIPO DE AVALIAÇÃO PARCIAL DE ALGUMAS ALTERAÇÕES EM RAIO-X ODONTOLÓGICO",
+        "centros_custo": [
+          {
+            "centro_custo": "88.318",
+            "cod_centro_custo": "25362",
+            "tipo_financiamento": "EMPRESA"
+          },
+          {
+            "centro_custo": "88.319",
+            "cod_centro_custo": "25361",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.320",
+            "cod_centro_custo": "25363",
+            "tipo_financiamento": "EMBRAPII"
+          }
+        ],
+        "nickName": "DIO: DENTAL DEEP",
+        "coordenador": {
+          "nome": "Celso Gonçalves Camilo Junior",
+          "email": "celso.camilo@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "DESENVOLVIMENTO DE ARQUITETURA DE SOFTWARE PARA SINTETIZAÇÃO DE VOZ COM EXPRESSÕES EMOCIONAIS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.321",
+            "cod_centro_custo": "24784",
+            "tipo_financiamento": "EMPRESA"
+          },
+          {
+            "centro_custo": "88.322",
+            "cod_centro_custo": "24785",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.323",
+            "cod_centro_custo": "24783",
+            "tipo_financiamento": "EMBRAPII"
+          }
+        ],
+        "nickName": "PEDRA 39 II",
+        "coordenador": {
+          "nome": "Anderson da Silva Soares",
+          "email": "anderson.soares@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "AUTOMAÇÃO E OTIMIZAÇÃO DA CADEIA DE SUPRIMENTOS PARA SMART STORES",
+        "centros_custo": [
+          {
+            "centro_custo": "88.324",
+            "cod_centro_custo": "25172",
+            "tipo_financiamento": "EMBRAPII"
+          },
+          {
+            "centro_custo": "88.325",
+            "cod_centro_custo": "25173",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.326",
+            "cod_centro_custo": "25174",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "GETSNACK",
+        "coordenador": {
+          "nome": "Iwens Gervásio Sene Júnior",
+          "email": "iwens.sene@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "AMBIENTÔMICA NO MELHORAMENTO GENÉTICO: RECOMENDAÇÃO DE GENÓTIPOS DE MILHO",
+        "centros_custo": [
+          {
+            "centro_custo": "88.327",
+            "cod_centro_custo": "24720",
+            "tipo_financiamento": "EMBRAPII"
+          },
+          {
+            "centro_custo": "88.328",
+            "cod_centro_custo": "24721",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "SYNGENTA",
+        "coordenador": {
+          "nome": "Iwens Gervásio Sene Júnior",
+          "email": "iwens.sene@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "TECNOLOGIAS DE INTELIGÊNCIA ARTIFICIAL COMO CONSULTOR EMPRESARIAL",
+        "centros_custo": [
+          {
+            "centro_custo": "88.329",
+            "cod_centro_custo": "25120",
+            "tipo_financiamento": "EMPRESA"
+          },
+          {
+            "centro_custo": "88.330",
+            "cod_centro_custo": "25121",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.331",
+            "cod_centro_custo": "25119",
+            "tipo_financiamento": "EMBRAPII"
+          }
+        ],
+        "nickName": "MATCH IT II",
+        "coordenador": {
+          "nome": "Taciana Novo Kudo",
+          "email": "taciana.kudo@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL E GAMIFICAÇÃO AVANÇADA PARA APRIMORAMENTO DE TREINOS E CATEGORIZAÇÃO DA PERCEPÇÃO DE ESFORÇO",
+        "centros_custo": [
+          {
+            "centro_custo": "88.332",
+            "cod_centro_custo": "25473",
+            "tipo_financiamento": "EMBRAPII"
+          },
+          {
+            "centro_custo": "88.333",
+            "cod_centro_custo": "25477",
+            "tipo_financiamento": "EMPRESA"
+          },
+          {
+            "centro_custo": "88.334",
+            "cod_centro_custo": "25478",
+            "tipo_financiamento": "SEBRAE"
+          }
+        ],
+        "nickName": "MOOVZ",
+        "coordenador": {
+          "coordenador1": {
+            "nome": "Leonardo Antonio Alves",
+            "email": "leonardo.alves@ceia.ufg.br"
+          },
+          "coordenador2": {
+            "nome": "Paulo César Ferreira Melo",
+            "email": ""
+          }
+        }
+      },
+      {
+        "titulo_projeto": "AUTOMAÇÃO DO SUCESSO DE CLIENTES EM SISTEMAS DE GESTÃO EMPRESARIAL UTILIZANDO AGENTES DE INTELIGÊNCIA ARTIFICIAL",
+        "centros_custo": [
+          {
+            "centro_custo": "88.335",
+            "cod_centro_custo": "25471",
+            "tipo_financiamento": "EMBRAPII"
+          },
+          {
+            "centro_custo": "88.336",
+            "cod_centro_custo": "25470",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.337",
+            "cod_centro_custo": "25472",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "INSIDE",
+        "coordenador": {
+          "coordenador1": {
+            "nome": "Thiago Naves",
+            "email": "thiago.naves@ceia.ufg.br"
+          },
+          "coordenador2": {
+            "nome": "Anderson da Silva Soares",
+            "email": "anderson.soares@ceia.ufg.br"
+          }
+        }
+      },
+      {
+        "titulo_projeto": "MAXIMIZANDO OS RESULTADOS COM TREINOS PRESCRITOS POR IA",
+        "centros_custo": [
+          {
+            "centro_custo": "88.338",
+            "cod_centro_custo": "25122",
+            "tipo_financiamento": "EMBRAPII"
+          },
+          {
+            "centro_custo": "88.339",
+            "cod_centro_custo": "25123",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "PERSONAL FIT",
+        "coordenador": {
+          "nome": "Leonardo Antonio Alves",
+          "email": "leonardo.alves@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "CONTROLE INTELIGENTE DE FROTAS COM OPEN-RMF PARA VEÍCULOS LEVES AUTÔNOMOS EM AMBIENTES SOCIAIS URBANOS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.340",
+            "cod_centro_custo": "25221",
+            "tipo_financiamento": "EMBRAPII"
+          },
+          {
+            "centro_custo": "88.341",
+            "cod_centro_custo": "25222",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.342",
+            "cod_centro_custo": "25223",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "PLUGINBOT",
+        "coordenador": {
+          "nome": "Gustavo Teodoro Laureano",
+          "email": "gustavo.laureano@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "INTELIGÊNCIA ARTIFICIAL CONVERSACIONAL PARA TOMADA DE DECISÃO EM GESTÃO DE PROJETOS",
+        "centros_custo": [
+          {
+            "centro_custo": "88.343",
+            "cod_centro_custo": "25436",
+            "tipo_financiamento": "EMBRAPII"
+          },
+          {
+            "centro_custo": "88.344",
+            "cod_centro_custo": "25437",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.345",
+            "cod_centro_custo": "25438",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "GEMA ELÉTRICA II",
+        "coordenador": {
+          "nome": "Sávio Salvarino Teles de Oliveira",
+          "email": "savio.oliveira@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "MOTOR BIOMÉTRICO VETORIAL DE ALTA PERFORMANCE PARA DETECÇÃO DE SIMILARIDADE",
+        "centros_custo": [
+          {
+            "centro_custo": "88.346",
+            "cod_centro_custo": "25307",
+            "tipo_financiamento": "EMBRAPII"
+          },
+          {
+            "centro_custo": "88.347",
+            "cod_centro_custo": "25308",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.348",
+            "cod_centro_custo": "25309",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "NOLEAK IV",
+        "coordenador": {
+          "nome": "Ricardo Augusto Pereira Franco",
+          "email": "ricardo.franco@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "SISTEMAS INTELIGENTES PARA OTIMIZAÇÃO DE ESTOQUE POR MEIO DE PREVISÃO DE VENDAS E RECOMENDAÇÃO DE AÇÕES",
+        "centros_custo": [
+          {
+            "centro_custo": "88.349",
+            "cod_centro_custo": "25382",
+            "tipo_financiamento": "EMBRAPII"
+          },
+          {
+            "centro_custo": "88.350",
+            "cod_centro_custo": "25384",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.351",
+            "cod_centro_custo": "25383",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "GOSHARP",
+        "coordenador": {
+          "nome": "Telma Woerle de Lima Soares",
+          "email": "telma.soares@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "ESTIMATIVA DE PESO E CONTAGEM DE ITENS FLV ATRAVÉS DE VISÃO COMPUTACIONAL",
+        "centros_custo": [
+          {
+            "centro_custo": "88.352",
+            "cod_centro_custo": "25474",
+            "tipo_financiamento": "EMBRAPII"
+          },
+          {
+            "centro_custo": "88.353",
+            "cod_centro_custo": "25476",
+            "tipo_financiamento": "SEBRAE"
+          },
+          {
+            "centro_custo": "88.354",
+            "cod_centro_custo": "25475",
+            "tipo_financiamento": "EMPRESA"
+          }
+        ],
+        "nickName": "ARAVITA",
+        "coordenador": {
+          "coordenador1": {
+            "nome": "Anderson da Silva Soares",
+            "email": "anderson.soares@ceia.ufg.br"
+          },
+          "coordenador2": {
+            "nome": "Thiago Naves",
+            "email": "thiago.naves@ceia.ufg.br"
+          }
+        }
+      },
+      {
+        "titulo_projeto": "DESENVOLVIMENTO DE ASSISTENTE INTELIGENTE PARA QUALIFICAÇÃO DE ATENDIMENTO EM VENDAS - GOIA",
+        "centros_custo": [
+          {
+            "centro_custo": "88.355",
+            "cod_centro_custo": "25413",
+            "tipo_financiamento": "EMBRAPII FILHA"
+          },
+          {
+            "centro_custo": "88.356",
+            "cod_centro_custo": "25415",
+            "tipo_financiamento": "EMBRAPII SEBRAE"
+          },
+          {
+            "centro_custo": "88.357",
+            "cod_centro_custo": "25416",
+            "tipo_financiamento": "EMBRAPII EMPRESA"
+          }
+        ],
+        "nickName": "GEOMAIS II",
+        "coordenador": {
+          "nome": "Celso Gonçalves Camilo Junior",
+          "email": "celso.camilo@ceia.ufg.br"
+        }
+      },
+      {
+        "titulo_projeto": "ASSOCIAÇÃO TECNOLÓGICA - LI - FLEXTRONICS",
+        "centros_custo": [
+          {
+            "centro_custo": "90.002.001",
+            "cod_centro_custo": "24434",
+            "tipo_financiamento": "INSTITUCIONAL"
+          }
+        ]
+      },
+      {
+        "titulo_projeto": "ASSOCIAÇÃO TECNOLÓGICA - LI - POSITIVO",
+        "centros_custo": [
+          {
+            "centro_custo": "90.002.002",
+            "cod_centro_custo": "25316",
+            "tipo_financiamento": "INSTITUCIONAL"
+          }
+        ]
+      },
+      {
+        "titulo_projeto": "IMPLANTAÇÃO DO CENTRO DE COMPETÊNCIA EMBRAPII EM TECNOLOGIAS IMERSIVAS APLICADAS PARA MUNDOS VIRTUAIS - CAPACITAÇÃO E FORMAÇÃO DE RECURSOS HUMANOS - AKCIT - RH",
+        "centros_custo": [
+          {
+            "centro_custo": "90.003",
+            "cod_centro_custo": "25488",
+            "tipo_financiamento": "INSTITUCIONAL"
+          }
+        ]
+      },
+      {
+        "titulo_projeto": "IMPLANTAÇÃO DO CENTRO DE COMPETÊNCIA EMBRAPII EM TECNOLOGIAS IMERSIVAS APLICADAS PARA MUNDOS VIRTUAIS",
+        "centros_custo": [
+          {
+            "centro_custo": "90.004",
+            "cod_centro_custo": "25278",
+            "tipo_financiamento": "INSTITUCIONAL"
+          }
+        ]
+      },
+      {
+        "titulo_projeto": "PESQUISA E DESENVOLVIMENTO DE TÉCNICAS COMPUTACIONAIS PARA SEGURANÇA E PRIVACIDADE DE DADOS MULTIMODAIS",
+        "centros_custo": [
+          {
+            "centro_custo": "90.006",
+            "cod_centro_custo": "25367",
+            "tipo_financiamento": "INSTITUCIONAL"
+          }
+        ]
+      },
+      {
+        "titulo_projeto": "SOFIA: SENSORIAL OLFACTORY FRAMEWORK IMMERSIVE AI",
+        "centros_custo": [
+          {
+            "centro_custo": "90.007",
+            "cod_centro_custo": "24697",
+            "tipo_financiamento": "INSTITUCIONAL"
+          }
+        ]
+      },
+      {
+        "titulo_projeto": "PESQUISA E DESENVOLVIMENTO DE ALGORITMOS PARA CONSTRUÇÃO DE COMPONENTES TECNOLÓGICOS DE HUMANOS DIGITAIS",
+        "centros_custo": [
+          {
+            "centro_custo": "90.008",
+            "cod_centro_custo": "25445",
+            "tipo_financiamento": "INSTITUCIONAL"
+          }
+        ]
+      },
+      {
+        "titulo_projeto": "INVESTIGAÇÃO SOBRE INTERAÇÕES ENTRE ESPAÇOS FÍSICOS E ESPAÇOS DIGITAIS IMERSIVOS",
+        "centros_custo": [
+          {
+            "centro_custo": "90.009",
+            "cod_centro_custo": "24359",
+            "tipo_financiamento": "INSTITUCIONAL"
+          }
+        ]
+      },
+      {
+        "titulo_projeto": "PESQUISA E DESENVOLVIMENTO DE AGENTES CAPAZES DE PLANEJAR, AGIR, COOPERAR E APRENDER",
+        "centros_custo": [
+          {
+            "centro_custo": "90.010",
+            "cod_centro_custo": "24414",
+            "tipo_financiamento": "INSTITUCIONAL"
+          }
+        ]
+      },
+      {
+        "titulo_projeto": "FRAMEWORK PARA AVALIAÇÃO IMERSIVA DE TREINAMENTOS BASEADA NA PRESENÇA",
+        "centros_custo": [
+          {
+            "centro_custo": "90.011",
+            "cod_centro_custo": "25162",
+            "tipo_financiamento": "INSTITUCIONAL"
+          }
+        ]
+      },
+      {
+        "titulo_projeto": "INVESTIGAÇÃO DE TECNOLOGIA IMERSIVAS PARA O DESENVOLVIMENTO DE NOVAS EXPERIÊNCIAS NAS ARTES",
+        "centros_custo": [
+          {
+            "centro_custo": "90.012",
+            "cod_centro_custo": "25085",
+            "tipo_financiamento": "INSTITUCIONAL"
+          }
+        ]
+      },
+      {
+        "titulo_projeto": "SITE-VR - SIMULATION, IMMERSIVE TRAINING, AND EDUCATION IN VIRTUAL REALITY SIMULAÇÃO, TREINAMENTO IMERSIVO E EDUCAÇÃO EM REALIDADE VIRTUAL",
+        "centros_custo": [
+          {
+            "centro_custo": "90.013",
+            "cod_centro_custo": "24992",
+            "tipo_financiamento": "EMBRAPII"
+          }
+        ]
+      }
+    ],
+    "message": "Sucesso!"
+  }
+]
