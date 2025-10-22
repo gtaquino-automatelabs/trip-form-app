@@ -8,7 +8,6 @@ import { useFormNavigation } from '@/hooks/useFormNavigation';
 import { useAutoSave } from '@/hooks/useAutoSave';
 import { useNetworkStatus } from '@/hooks/useNetworkStatus';
 import { OfflineBanner } from '@/components/ui/offline-banner';
-import { RecoveryPrompt } from '@/components/ui/recovery-prompt';
 import { ErrorBoundary } from '@/components/error-boundary';
 import { logUserAction } from '@/lib/error-logger';
 import { toast } from 'sonner';
@@ -67,8 +66,16 @@ export default function MultiStepFormPage() {
     }
   }, [registerPageValidator, unregisterPageValidator]);
   
-  const { formData, clearFormData, hasRecoverableData } = useFormStore();
-  
+  const { formData, clearFormData, hasRecoverableData, recoverFormData } = useFormStore();
+
+  // Auto-recover saved data silently on mount
+  useEffect(() => {
+    if (hasRecoverableData) {
+      recoverFormData();
+      logUserAction('form_data_auto_recovered');
+    }
+  }, []); // Run only once on mount
+
   // Enable auto-save
   useAutoSave({
     enabled: true,
@@ -242,20 +249,7 @@ export default function MultiStepFormPage() {
       <>
         {/* Offline Banner */}
         <OfflineBanner />
-        
-        {/* Recovery Prompt */}
-        {hasRecoverableData && (
-          <RecoveryPrompt 
-            onRecover={() => {
-              logUserAction('form_data_recovered');
-              toast.success('Dados do formulário recuperados com sucesso!');
-            }}
-            onDiscard={() => {
-              logUserAction('form_data_discarded');
-            }}
-          />
-        )}
-        
+
         {/* Only render form if page should be shown */}
         {showPage && (
           <FormLayout

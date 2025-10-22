@@ -86,3 +86,6 @@ logs/
 # Misc
 .eslintcache
 *.pem
+
+# Uploads (user-uploaded files)
+apps/web/public/uploads/

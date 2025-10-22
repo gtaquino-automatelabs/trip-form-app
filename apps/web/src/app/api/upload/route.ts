@@ -138,7 +138,7 @@ export async function POST(request: NextRequest) {
     } else {
       // Local file storage (development) with secure filename
       const uniqueFileName = generateSecureFileName(file.name, user.id, 'local');
-      const uploadDir = path.join(process.cwd(), 'apps', 'web', 'public', 'uploads');
+      const uploadDir = path.join(process.cwd(), 'public', 'uploads');
       
       // Create uploads directory if it doesn't exist
       if (!existsSync(uploadDir)) {

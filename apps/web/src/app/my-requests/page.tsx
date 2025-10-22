@@ -218,8 +218,7 @@ export default function MyRequestsPage() {
             <Button
               onClick={handleRequestForOther}
               size="lg"
-              variant="outline"
-              className="w-full justify-start border-slate-600 text-slate-200 hover:bg-slate-700/50"
+              className="bg-cyan-600 hover:bg-cyan-700 text-white w-full justify-start"
             >
               <Users className="mr-2 h-5 w-5" />
               Outra pessoa

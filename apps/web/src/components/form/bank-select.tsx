@@ -140,9 +140,9 @@ export function BankSelect({
               
               {!loading && options.length > 0 && (
                 <CommandGroup>
-                  {options.map((bank) => (
+                  {options.map((bank, index) => (
                     <CommandItem
-                      key={bank.code}
+                      key={`${bank.value}-${bank.code || index}`}
                       value={bank.value}
                       onSelect={handleSelect}
                       className="cursor-pointer"
@@ -155,9 +155,11 @@ export function BankSelect({
                       />
                       <div className="flex flex-col">
                         <span className="font-medium">{bank.label}</span>
-                        <span className="text-xs text-muted-foreground">
-                          Código: {bank.code}
-                        </span>
+                        {bank.code && (
+                          <span className="text-xs text-muted-foreground">
+                            Código: {bank.code}
+                          </span>
+                        )}
                       </div>
                     </CommandItem>
                   ))}

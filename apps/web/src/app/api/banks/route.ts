@@ -13,12 +13,12 @@ export async function GET(request: NextRequest) {
     // Build query with optional search filter
     let query = supabase
       .from('bancos_brasileiros')
-      .select('codigo_compensacao, nome_instituicao')
-      .order('nome_instituicao', { ascending: true });
+      .select('code, name, full_name')
+      .order('full_name', { ascending: true });
 
     // Add search filter if provided
     if (search.trim()) {
-      query = query.ilike('nome_instituicao', `%${search.trim()}%`);
+      query = query.ilike('full_name', `%${search.trim()}%`);
     }
 
     // Add limit
@@ -37,9 +37,9 @@ export async function GET(request: NextRequest) {
 
     // Transform data for frontend use
     const formattedBanks = banks?.map(bank => ({
-      value: bank.nome_instituicao,
-      label: bank.nome_instituicao,
-      code: bank.codigo_compensacao
+      value: bank.full_name,
+      label: bank.code ? `${bank.full_name} (${bank.code})` : bank.full_name,
+      code: bank.code || ''
     })) || [];
 
     return NextResponse.json({

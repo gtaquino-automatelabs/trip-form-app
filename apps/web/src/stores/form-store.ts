@@ -355,7 +355,15 @@ export const useFormStore = create<FormState>()(
           return false;
         }
 
-        // Pages 6 and 7 are ALWAYS accessible (they ask about restrictions/preferences)
+        // Page 6 (Time Restrictions) - only if hasTimeRestrictions is true
+        if (page === 6 && !formData.hasTimeRestrictions) {
+          return false;
+        }
+
+        // Page 7 (Flight Preferences) - only if hasFlightPreferences is true
+        if (page === 7 && !formData.hasFlightPreferences) {
+          return false;
+        }
 
         // Can navigate to the next unvisited page if current page is complete
         const maxVisited = Math.max(...visitedPages);
@@ -376,7 +384,18 @@ export const useFormStore = create<FormState>()(
             nextPage++;
             continue;
           }
-          // Pages 6 and 7 are ALWAYS shown (they ask about restrictions/preferences)
+          // Page 6 is only available if hasTimeRestrictions is true
+          if (nextPage === 6 && !formData.hasTimeRestrictions) {
+            console.log('Skipping page 6 - no time restrictions');
+            nextPage++;
+            continue;
+          }
+          // Page 7 is only available if hasFlightPreferences is true
+          if (nextPage === 7 && !formData.hasFlightPreferences) {
+            console.log('Skipping page 7 - no flight preferences');
+            nextPage++;
+            continue;
+          }
           // Found a valid page
           console.log(`Next available page: ${nextPage}`);
           break;
@@ -398,7 +417,16 @@ export const useFormStore = create<FormState>()(
             prevPage--;
             continue;
           }
-          // Pages 6 and 7 are ALWAYS shown (they ask about restrictions/preferences)
+          // Page 6 is only available if hasTimeRestrictions is true
+          if (prevPage === 6 && !formData.hasTimeRestrictions) {
+            prevPage--;
+            continue;
+          }
+          // Page 7 is only available if hasFlightPreferences is true
+          if (prevPage === 7 && !formData.hasFlightPreferences) {
+            prevPage--;
+            continue;
+          }
           // Found a valid page
           break;
         }
