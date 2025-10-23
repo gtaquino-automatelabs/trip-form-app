@@ -7,7 +7,13 @@
       "env": [
         "NEXT_PUBLIC_SUPABASE_URL",
         "NEXT_PUBLIC_SUPABASE_ANON_KEY",
-        "NEXT_PUBLIC_SERVER_URL"
+        "NEXT_PUBLIC_SERVER_URL",
+        "SUPABASE_SERVICE_KEY",
+        "USE_SUPABASE_STORAGE",
+        "GOOGLE_CLIENT_ID",
+        "GOOGLE_CLIENT_SECRET",
+        "AZURE_CLIENT_ID",
+        "AZURE_CLIENT_SECRET"
       ]
     },
     "dev": {
@@ -28,7 +34,13 @@
   "globalEnv": [
     "NEXT_PUBLIC_SUPABASE_URL",
     "NEXT_PUBLIC_SUPABASE_ANON_KEY",
-    "NEXT_PUBLIC_SERVER_URL"
+    "NEXT_PUBLIC_SERVER_URL",
+    "SUPABASE_SERVICE_KEY",
+    "USE_SUPABASE_STORAGE",
+    "GOOGLE_CLIENT_ID",
+    "GOOGLE_CLIENT_SECRET",
+    "AZURE_CLIENT_ID",
+    "AZURE_CLIENT_SECRET"
   ],
   "globalDependencies": [
     "tsconfig.json"
