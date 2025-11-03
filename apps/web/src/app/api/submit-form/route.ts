@@ -171,10 +171,8 @@ export async function POST(request: NextRequest) {
         cpf: validatedData.cpf,
         birth_date: validatedData.birthDate,
         phone: validatedData.phone,
-        // Structured bank fields
-        bank_name: validatedData.bankName,
-        bank_branch: validatedData.bankBranch,
-        bank_account: validatedData.bankAccount,
+        // Bank details (combined field)
+        bank_details: validatedData.bankDetails,
         request_type: validatedData.requestType,
       },
       travel_details: {
