@@ -171,7 +171,7 @@ export async function POST(request: NextRequest) {
         cpf: validatedData.cpf,
         birth_date: validatedData.birthDate,
         phone: validatedData.phone,
-        // Bank details (combined field)
+        // Bank details (single field)
         bank_details: validatedData.bankDetails,
         request_type: validatedData.requestType,
       },
@@ -251,7 +251,7 @@ export async function POST(request: NextRequest) {
       
       // Cache the successful response if idempotency key is provided
       if (idempotencyKey) {
-        const response = {
+        const response: SuccessResponse = {
           success: true,
           data: {
             requestId,
@@ -284,7 +284,7 @@ export async function POST(request: NextRequest) {
           return errorResponse(
             'DATABASE_ERROR',
             'Erro ao salvar a solicitação no banco de dados',
-            error.message,
+            null,
             500
           );
         }
@@ -295,12 +295,12 @@ export async function POST(request: NextRequest) {
 
   } catch (error) {
     console.error('Unexpected error in form submission:', error);
-    
+
     // Generic error response
     return errorResponse(
       'INTERNAL_ERROR',
       'Erro interno do servidor. Por favor, tente novamente mais tarde.',
-      process.env.NODE_ENV === 'development' ? error : undefined,
+      null,
       500
     );
   }

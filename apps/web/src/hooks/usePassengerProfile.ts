@@ -1,5 +1,5 @@
 import { useState, useCallback, useEffect } from 'react';
-import { PassengerProfile } from '@/types/profile';
+import type { PassengerProfile } from '@/types/profile';
 import { toast } from 'sonner';
 
 interface UsePassengerProfileReturn {

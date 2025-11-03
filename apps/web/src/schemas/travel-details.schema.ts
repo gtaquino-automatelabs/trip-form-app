@@ -23,25 +23,22 @@ export const travelDetailsSchema = z.object({
   
   departureDate: z
     .date({
-      required_error: 'Data de ida é obrigatória',
-      invalid_type_error: 'Data inválida'
+      message: 'Data inválida'
     })
     .refine((date) => {
       const today = new Date();
       today.setHours(0, 0, 0, 0);
       return date >= today;
     }, 'A data de ida não pode ser no passado'),
-  
+
   returnDate: z
     .date({
-      required_error: 'Data de volta é obrigatória',
-      invalid_type_error: 'Data inválida'
+      message: 'Data inválida'
     }),
-  
+
   transportType: z
     .enum(['air', 'road', 'both', 'own_car'], {
-      required_error: 'Tipo de transporte é obrigatório',
-      invalid_type_error: 'Tipo de transporte inválido'
+      message: 'Tipo de transporte inválido'
     })
 }).refine((data) => {
   // Validate return date is after departure date

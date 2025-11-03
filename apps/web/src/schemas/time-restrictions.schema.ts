@@ -2,9 +2,7 @@ import { z } from 'zod';
 
 export const timeRestrictionsSchema = z.object({
   timeRestrictionDetails: z
-    .string({
-      required_error: 'Detalhes das restrições são obrigatórios',
-    })
+    .string()
     .min(20, 'Descrição deve ter pelo menos 20 caracteres')
     .max(1000, 'Descrição não pode exceder 1000 caracteres')
     .trim(),

@@ -62,14 +62,14 @@ export function validateTripObjective(data: unknown) {
     if (error instanceof z.ZodError) {
       const errors = error.flatten().fieldErrors;
       const formattedErrors: Record<string, string> = {};
-      
+
       Object.keys(errors).forEach((key) => {
-        const errorArray = errors[key as keyof typeof errors];
-        if (errorArray && errorArray.length > 0) {
+        const errorArray = errors[key as keyof typeof errors] as string[] | undefined;
+        if (errorArray && Array.isArray(errorArray) && errorArray.length > 0) {
           formattedErrors[key] = errorArray[0];
         }
       });
-      
+
       return { success: false, data: null, errors: formattedErrors };
     }
     

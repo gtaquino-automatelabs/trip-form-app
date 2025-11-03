@@ -1,13 +1,11 @@
 import { SupabaseClient } from '@supabase/supabase-js';
-import type { 
-  Database, 
-  TravelRequest, 
-  NewTravelRequest, 
-  UpdateTravelRequest,
-  StatusHistory,
-  FormDraft 
-} from '@trip-form-app/shared';
+import type { Database } from '@/types/database';
 import { BaseRepository } from './base-repository';
+
+// Type aliases from Database schema
+type TravelRequest = Database['public']['Tables']['travel_requests']['Row'];
+type NewTravelRequest = Database['public']['Tables']['travel_requests']['Insert'];
+type UpdateTravelRequest = Database['public']['Tables']['travel_requests']['Update'];
 
 export class TravelRequestRepository extends BaseRepository<TravelRequest> {
   constructor(supabase: SupabaseClient<Database>) {
@@ -302,18 +300,20 @@ export class TravelRequestRepository extends BaseRepository<TravelRequest> {
 
       if (updateError) throw updateError;
 
-      // Add to status history
-      const { error: historyError } = await client
-        .from('status_history')
-        .insert({
-          request_id: id,
-          changed_by: changedBy,
-          previous_status: current.status || null,
-          new_status: status,
-          comment: comment || null
-        });
+      // Add to status history (only if new status is not null)
+      if (status) {
+        const { error: historyError } = await client
+          .from('status_history')
+          .insert({
+            request_id: id,
+            changed_by: changedBy,
+            previous_status: current.status,
+            new_status: status,
+            comment: comment || undefined
+          });
 
-      if (historyError) throw historyError;
+        if (historyError) throw historyError;
+      }
 
       return request;
     });

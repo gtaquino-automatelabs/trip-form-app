@@ -96,7 +96,9 @@ export const expenseTypesSchema = z.object({
 export const preferencesSchema = z.object({
   baggageAllowance: z.boolean(),
   transportAllowance: z.boolean(),
-  estimatedDailyAllowance: z.number().min(0, 'Valor da diária estimada deve ser positivo')
+  estimatedDailyAllowance: z.number().min(0, 'Valor da diária estimada deve ser positivo'),
+  hasTimeRestrictions: z.boolean().optional(),
+  hasFlightPreferences: z.boolean().optional()
 });
 
 // Page 5: International Travel validation (conditional)

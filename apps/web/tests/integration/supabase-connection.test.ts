@@ -1,6 +1,6 @@
 import { describe, it, expect, beforeAll, afterAll } from 'vitest';
 import { createClient } from '@supabase/supabase-js';
-import type { Database } from '@trip-form-app/shared';
+import type { Database } from '../../src/types/database';
 
 // Test with service role key for full access
 const supabase = createClient<Database>(

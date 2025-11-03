@@ -72,8 +72,7 @@ export const passengerDataSchema = z.object({
     .refine(validateCPF, 'CPF inválido'),
   
   birthDate: z.date({
-    required_error: 'Campo obrigatório',
-    invalid_type_error: 'Data inválida',
+    message: 'Data inválida',
   })
     .refine((date) => date <= new Date(), 'Data não pode ser no futuro')
     .refine(validateAge, 'Idade mínima de 18 anos'),

@@ -1,5 +1,5 @@
 import { SupabaseClient } from '@supabase/supabase-js';
-import type { Database } from '@trip-form-app/shared';
+import type { Database } from '@/types/database';
 
 export type DbResult<T> = T extends PromiseLike<infer U> ? U : never;
 export type DbResultOk<T> = T extends PromiseLike<{ data: infer U }> ? Exclude<U, null> : never;

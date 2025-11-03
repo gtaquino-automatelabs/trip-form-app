@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, Suspense } from 'react';
 import { LoginForm } from '@/components/auth/login-form';
 import { SignupForm } from '@/components/auth/signup-form';
 import { Card, CardContent } from '@/components/ui/card';
@@ -28,7 +28,9 @@ export default function LoginPage() {
               </div>
 
               {mode === 'login' ? (
-                <LoginForm />
+                <Suspense fallback={<div>Loading...</div>}>
+                  <LoginForm />
+                </Suspense>
               ) : (
                 <SignupForm />
               )}
