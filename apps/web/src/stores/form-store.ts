@@ -214,32 +214,24 @@ export const useFormStore = create<FormState>()(
 
       setCurrentPage: (page) =>
         set((state) => {
-          console.log(`🏪 STORE: setCurrentPage called - from ${state.currentPage} to ${page}`);
-          
           // Only update current page, don't automatically mark intermediate pages as visited
           // This respects conditional page logic
           const newState = {
             ...state,
             currentPage: page
           };
-          
-          console.log('🏪 STORE: New state will be:', newState);
+
           return newState;
         }),
 
       markPageVisited: (page) =>
         set((state) => {
-          console.log(`Store markPageVisited: ${page}`);
-          console.log('Current visitedPages:', state.visitedPages);
-          
           if (state.visitedPages.includes(page)) {
-            console.log('Page already visited, no change');
             return state;
           }
-          
+
           const newVisitedPages = [...state.visitedPages, page].sort((a, b) => a - b);
-          console.log('New visitedPages:', newVisitedPages);
-          
+
           return {
             visitedPages: newVisitedPages
           };
@@ -380,24 +372,20 @@ export const useFormStore = create<FormState>()(
         while (nextPage <= 8) {
           // Page 5 is only available if international
           if (nextPage === 5 && !formData.isInternational) {
-            console.log('Skipping page 5 - not international');
             nextPage++;
             continue;
           }
           // Page 6 is only available if hasTimeRestrictions is true
           if (nextPage === 6 && !formData.hasTimeRestrictions) {
-            console.log('Skipping page 6 - no time restrictions');
             nextPage++;
             continue;
           }
           // Page 7 is only available if hasFlightPreferences is true
           if (nextPage === 7 && !formData.hasFlightPreferences) {
-            console.log('Skipping page 7 - no flight preferences');
             nextPage++;
             continue;
           }
           // Found a valid page
-          console.log(`Next available page: ${nextPage}`);
           break;
         }
 
